@@ -24,6 +24,43 @@ from app.services.ai_grading import build_ai_grader
 from app.services.bootstrap import seed_subjects, seed_users
 
 
+_RUNTIME_BOOTSTRAP_ENVS = frozenset(
+    {
+        "development",
+        "dev",
+        "test",
+        "testing",
+        "local",
+    }
+)
+
+
+def _normalize_app_env(value: str | None) -> str:
+    return (value or "development").strip().lower()
+
+
+def _runtime_bootstrap_enabled(*, app_env: str, dialect_name: str) -> bool:
+    """Runtime schema/bootstrap is intentionally limited to local SQLite.
+
+    PostgreSQL databases are always Alembic-managed.
+    """
+    return (
+        _normalize_app_env(app_env) in _RUNTIME_BOOTSTRAP_ENVS
+        and dialect_name == "sqlite"
+    )
+
+
+def _validate_runtime_database(*, app_env: str, dialect_name: str) -> None:
+    """Prevent accidental production deployment from silently falling back
+    to a local/ephemeral SQLite database."""
+    env = _normalize_app_env(app_env)
+    if dialect_name == "sqlite" and env not in _RUNTIME_BOOTSTRAP_ENVS:
+        raise RuntimeError(
+            "SQLite is only allowed for local/dev/test runtime. "
+            "Production/staging must use PostgreSQL."
+        )
+
+
 def create_app() -> FastAPI:
     settings = get_settings()
     engine = build_engine()
@@ -31,16 +68,33 @@ def create_app() -> FastAPI:
 
     @asynccontextmanager
     async def lifespan(app: FastAPI):
-        Base.metadata.create_all(engine)
-        with session_factory() as session:
-            seed_subjects(session)
-            seed_users(
-                session,
-                admin_username=settings.bootstrap_admin_username,
-                admin_password=settings.bootstrap_admin_password,
-            )
-        yield
-        engine.dispose()
+        app_env = _normalize_app_env(settings.app_env)
+        dialect_name = engine.dialect.name
+
+        _validate_runtime_database(
+            app_env=app_env,
+            dialect_name=dialect_name,
+        )
+
+        if _runtime_bootstrap_enabled(
+            app_env=app_env,
+            dialect_name=dialect_name,
+        ):
+            # Local/dev/test SQLite only. PostgreSQL schema is NEVER
+            # created here; it is managed exclusively by Alembic.
+            Base.metadata.create_all(bind=engine)
+            with session_factory() as session:
+                seed_subjects(session)
+                seed_users(
+                    session,
+                    admin_username=settings.bootstrap_admin_username,
+                    admin_password=settings.bootstrap_admin_password,
+                )
+
+        try:
+            yield
+        finally:
+            engine.dispose()
 
     app = FastAPI(title="专科复习在线题库", version="0.5.0", lifespan=lifespan)
     app.add_middleware(
