@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "counts": {
+    "chinese": 2,
+    "math": 2,
+    "english": 2
+  },
+  "papers": [
+    {
+      "subject_code": "chinese",
+      "title": "语文模拟卷1",
+      "source_filename": "成考高起专语文 模拟1.docx",
+      "source_sha256": "5c3046587d50845df80d603fde1710d2653290c6cb4e91e809c8161412bb111c",
+      "source_size": 32769,
+      "expected_question_count": 20,
+      "expected_total_score": 150,
+      "expected_media_count": 0,
+      "expected_blocking_warnings_before_review": 0
+    },
+    {
+      "subject_code": "chinese",
+      "title": "语文模拟卷2",
+      "source_filename": "成考高起专语文 模拟2.docx",
+      "source_sha256": "84be775de37c4c1d55b94da475c938192839f60790cf943bbeeb1b3aa2506e4e",
+      "source_size": 30999,
+      "expected_question_count": 20,
+      "expected_total_score": 150,
+      "expected_media_count": 0,
+      "expected_blocking_warnings_before_review": 0
+    },
+    {
+      "subject_code": "math",
+      "title": "数学（文）模拟卷1",
+      "source_filename": "成考高起专数学（文）模拟题一.docx",
+      "source_sha256": "73d5c0085a88ddb6bc728c726435b49e9ce6558df5166941e6fc4ea0e5eae620",
+      "source_size": 166565,
+      "expected_question_count": 18,
+      "expected_total_score": 150,
+      "expected_media_count": 6,
+      "expected_blocking_warnings_before_review": 0
+    },
+    {
+      "subject_code": "math",
+      "title": "数学（文）模拟卷2",
+      "source_filename": "成考高起专、高起本数学（文）模拟题二.docx",
+      "source_sha256": "bfd3e054015d65ac67b239f6da19d7bf34bd22f4035c35cbeba35588a1fdad1e",
+      "source_size": 274342,
+      "expected_question_count": 18,
+      "expected_total_score": 150,
+      "expected_media_count": 15,
+      "expected_blocking_warnings_before_review": 0
+    },
+    {
+      "subject_code": "english",
+      "title": "英语考前模拟卷1",
+      "source_filename": "成考高起专英语-考前模拟题1.docx",
+      "source_sha256": "c67d8247a735333c7b055be373f3076dcd099eccad2559da35ca0587c4f5f517",
+      "source_size": 33662,
+      "expected_question_count": 56,
+      "expected_total_score": 150,
+      "expected_media_count": 0,
+      "expected_blocking_warnings_before_review": 0
+    },
+    {
+      "subject_code": "english",
+      "title": "英语考前模拟卷2",
+      "source_filename": "成考高起专英语-考前模拟题2.docx",
+      "source_sha256": "497975dd901856bbc31397f331144db93dc98450f1c4a82758c1af32bf4328c9",
+      "source_size": 32771,
+      "expected_question_count": 56,
+      "expected_total_score": 150,
+      "expected_media_count": 0,
+      "expected_blocking_warnings_before_review": 2
+    }
+  ]
+}

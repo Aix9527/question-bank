@@ -1,0 +1,48 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    environment:
+      QUESTION_BANK_DATABASE_URL: sqlite:////data/question_bank.db
+      QUESTION_BANK_AUTH_REQUIRED: ${QUESTION_BANK_AUTH_REQUIRED:-true}
+      QUESTION_BANK_AUTH_SESSION_HOURS: ${QUESTION_BANK_AUTH_SESSION_HOURS:-168}
+      QUESTION_BANK_BOOTSTRAP_ADMIN_USERNAME: ${QUESTION_BANK_BOOTSTRAP_ADMIN_USERNAME:-admin}
+      QUESTION_BANK_BOOTSTRAP_ADMIN_PASSWORD: ${QUESTION_BANK_BOOTSTRAP_ADMIN_PASSWORD:?Set QUESTION_BANK_BOOTSTRAP_ADMIN_PASSWORD in .env}
+      QUESTION_BANK_ADMIN_TOKEN: ${QUESTION_BANK_ADMIN_TOKEN:-}
+      QUESTION_BANK_CORS_ORIGINS: ${QUESTION_BANK_CORS_ORIGINS:-http://127.0.0.1:3000,http://localhost:3000}
+      QUESTION_BANK_AI_PROVIDER: ${QUESTION_BANK_AI_PROVIDER:-disabled}
+      QUESTION_BANK_AI_MODEL: ${QUESTION_BANK_AI_MODEL:-gpt-5.6-luna}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      OPENAI_BASE_URL: ${OPENAI_BASE_URL:-https://api.openai.com/v1}
+    volumes:
+      - question_bank_data:/data
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/api/health/ready', timeout=3)"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile.web
+      args:
+        NEXT_PUBLIC_API_BASE: ${PUBLIC_API_BASE:-http://127.0.0.1:8000}
+    environment:
+      API_INTERNAL_BASE: http://api:8000
+      QUESTION_BANK_AUTH_REQUIRED: ${QUESTION_BANK_AUTH_REQUIRED:-true}
+      QUESTION_BANK_COOKIE_SECURE: ${QUESTION_BANK_COOKIE_SECURE:-false}
+      QUESTION_BANK_ADMIN_TOKEN: ${QUESTION_BANK_ADMIN_TOKEN:-}
+    depends_on:
+      api:
+        condition: service_healthy
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+
+volumes:
+  question_bank_data:

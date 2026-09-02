@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "papers": [
+    {
+      "source_filename": "成考高起专英语-考前模拟题2.docx",
+      "corrections": [
+        {
+          "candidate_id": "s1q4",
+          "field": "standard_answer_json.value",
+          "original": "B",
+          "corrected": "A",
+          "warning_code": "answer_explanation_conflict",
+          "reason": "原卷解析指出 A 的 u 发音 /ʊ/ 与 B/C/D 的 /ʌ/ 不同，故人工审核修正为 A。"
+        },
+        {
+          "candidate_id": "s1q5",
+          "field": "standard_answer_json.value",
+          "original": "D",
+          "corrected": "B",
+          "warning_code": "answer_explanation_conflict",
+          "reason": "原卷解析指出 B 的 th 发音 /ð/ 与 A/C/D 的 /θ/ 不同，故人工审核修正为 B。"
+        }
+      ]
+    }
+  ]
+}

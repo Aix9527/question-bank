@@ -1,0 +1,9 @@
+'use client';
+import {FormEvent,useState} from 'react';
+import {useRouter} from 'next/navigation';
+
+export default function AdminPaperCreateForm(){
+  const router=useRouter(); const [busy,setBusy]=useState(false); const [message,setMessage]=useState('');
+  async function submit(e:FormEvent<HTMLFormElement>){e.preventDefault();const form=e.currentTarget;setBusy(true);setMessage('');const f=new FormData(form);const payload={subject_code:String(f.get('subject_code')),title:String(f.get('title')),paper_type:String(f.get('paper_type')),total_score:f.get('total_score')?Number(f.get('total_score')):null,time_limit_minutes:f.get('time_limit_minutes')?Number(f.get('time_limit_minutes')):null,status:'draft'};const r=await fetch('/api/admin-proxy/papers',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});setBusy(false);if(!r.ok){const b=await r.json().catch(()=>({detail:'创建失败'}));setMessage(b.detail??'创建失败');return;}form.reset();setMessage('试卷草稿已创建。');router.refresh();}
+  return <form className="card reviewForm" onSubmit={submit}><h2>新建试卷</h2><div className="formGrid"><label>科目<select className="textInput" name="subject_code"><option value="chinese">语文</option><option value="math">数学</option><option value="english">英语</option></select></label><label>类型<select className="textInput" name="paper_type"><option value="mock">模拟卷</option><option value="practice">练习卷</option><option value="exam">考试卷</option></select></label></div><label>标题<input required className="textInput" name="title"/></label><div className="formGrid"><label>总分<input className="textInput" name="total_score" type="number" min="0" step="0.5"/></label><label>时长（分钟）<input className="textInput" name="time_limit_minutes" type="number" min="1"/></label></div><button className="button nativeButton" disabled={busy}>{busy?'创建中…':'创建草稿'}</button>{message&&<p className="muted">{message}</p>}</form>;
+}
