@@ -28,13 +28,16 @@ def users(request: Request):
 @router.post('', status_code=status.HTTP_201_CREATED, response_model=UserRead)
 def add_user(payload: AdminUserCreate, request: Request):
     with request.app.state.session_factory() as session:
-        user = create_user(
-            session,
-            username=payload.username,
-            password=payload.password,
-            display_name=payload.display_name,
-            role=payload.role,
-        )
+        try:
+            user = create_user(
+                session,
+                username=payload.username,
+                password=payload.password,
+                display_name=payload.display_name,
+                role=payload.role,
+            )
+        except ValueError as exc:
+            raise HTTPException(status_code=400, detail=str(exc)) from exc
         if user is None:
             raise HTTPException(status_code=409, detail='username already exists')
         return _read(user)
@@ -44,15 +47,18 @@ def add_user(payload: AdminUserCreate, request: Request):
 def edit_user(user_id: int, payload: AdminUserUpdate, request: Request):
     with request.app.state.session_factory() as session:
         fields_set = payload.model_fields_set
-        user = update_user(
-            session,
-            user_id,
-            display_name=payload.display_name,
-            role=payload.role,
-            enabled=payload.enabled,
-            password=payload.password,
-            display_name_was_set='display_name' in fields_set,
-        )
+        try:
+            user = update_user(
+                session,
+                user_id,
+                display_name=payload.display_name,
+                role=payload.role,
+                enabled=payload.enabled,
+                password=payload.password,
+                display_name_was_set='display_name' in fields_set,
+            )
+        except ValueError as exc:
+            raise HTTPException(status_code=400, detail=str(exc)) from exc
         if user is None:
             raise HTTPException(status_code=404, detail='user not found')
         return _read(user)

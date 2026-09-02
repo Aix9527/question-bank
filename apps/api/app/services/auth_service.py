@@ -113,6 +113,8 @@ def create_user(
 ) -> User | None:
     if session.scalar(select(User.id).where(User.username == username)) is not None:
         return None
+    if role == 'admin' and not password:
+        raise ValueError('admin account requires a non-empty password')
     user = User(
         username=username,
         display_name=display_name,
@@ -139,6 +141,9 @@ def update_user(
     user = session.get(User, user_id)
     if user is None:
         return None
+    target_role = role if role is not None else user.role
+    if target_role == 'admin' and password is not None and password == '':
+        raise ValueError('admin account requires a non-empty password')
     if display_name_was_set:
         user.display_name = display_name
     if role is not None:
