@@ -6,7 +6,12 @@ from dataclasses import dataclass
 
 @dataclass(frozen=True)
 class Settings:
+    app_env: str
     database_url: str
+    database_migration_url: str | None
+    supabase_url: str | None
+    supabase_service_role_key: str | None
+    supabase_storage_bucket: str
     admin_token: str | None
     cors_origins: tuple[str, ...]
     auth_required: bool
@@ -20,13 +25,21 @@ class Settings:
 
 
 def _cors_origins() -> tuple[str, ...]:
-    raw = os.getenv('QUESTION_BANK_CORS_ORIGINS', 'http://127.0.0.1:3000,http://localhost:3000')
+    raw = os.getenv('QUESTION_BANK_CORS_ORIGINS', os.getenv('CORS_ORIGINS', 'http://127.0.0.1:3000,http://localhost:3000'))
     return tuple(item.strip() for item in raw.split(',') if item.strip())
 
 
 def get_settings() -> Settings:
+    # Vercel/serverless production uses DATABASE_URL; the legacy
+    # QUESTION_BANK_DATABASE_URL remains supported for local runs/tests.
+    database_url = os.getenv('DATABASE_URL') or os.getenv('QUESTION_BANK_DATABASE_URL') or 'sqlite:///./question_bank.db'
     return Settings(
-        database_url=os.getenv('QUESTION_BANK_DATABASE_URL', 'sqlite:///./question_bank.db'),
+        app_env=os.getenv('APP_ENV', 'development').strip().lower(),
+        database_url=database_url,
+        database_migration_url=os.getenv('DATABASE_MIGRATION_URL') or None,
+        supabase_url=os.getenv('SUPABASE_URL') or None,
+        supabase_service_role_key=os.getenv('SUPABASE_SERVICE_ROLE_KEY') or None,
+        supabase_storage_bucket=os.getenv('SUPABASE_STORAGE_BUCKET', 'question-bank').strip(),
         admin_token=os.getenv('QUESTION_BANK_ADMIN_TOKEN') or None,
         cors_origins=_cors_origins(),
         auth_required=os.getenv('QUESTION_BANK_AUTH_REQUIRED', 'false').strip().lower() in {'1','true','yes','on'},

@@ -4,6 +4,18 @@ __pycache__/
 .pytest_cache/
 node_modules/
 .next/
-question_bank.db
+
+# 环境变量（勿提交真实密钥）
 .env
+.env.local
+.env.*.local
+.env.production
+
+# 本地可变动数据库（封版备份 release-v0.5-final/*.db 在仓库外，不受影响）
+*.db
+*.db-shm
+*.db-wal
+question_bank.db
+
 backups/
+.vercel/
