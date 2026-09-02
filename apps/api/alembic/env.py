@@ -5,7 +5,7 @@ from logging.config import fileConfig
 from alembic import context
 from sqlalchemy import engine_from_config, pool
 
-from app.config import settings
+from app.config import get_settings
 from app.db import Base
 
 # IMPORTANT:
@@ -19,6 +19,9 @@ from app.models import learning  # noqa: F401
 from app.models import question_bank  # noqa: F401
 from app.models import review  # noqa: F401
 from app.models import user  # noqa: F401
+
+
+settings = get_settings()
 
 
 config = context.config
