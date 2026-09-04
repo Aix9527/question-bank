@@ -19,3 +19,4 @@ question_bank.db
 
 backups/
 .vercel/
+*.tsbuildinfo

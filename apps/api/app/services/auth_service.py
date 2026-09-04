@@ -194,6 +194,39 @@ def authenticate_token(session: Session, raw_token: str) -> User | None:
     return user
 
 
+def change_password(
+    session: Session,
+    *,
+    user_id: int,
+    old_password: str,
+    new_password: str,
+    keep_raw_token: str | None,
+) -> None:
+    """修改本人密码。旧密码不正确或新密码为空时抛出 ValueError；
+    成功后撤销除当前会话外的所有会话。"""
+    user = session.get(User, user_id)
+    if user is None:
+        raise ValueError('user not found')
+    if not new_password:
+        raise ValueError('new password must not be empty')
+    if not verify_password(old_password, user.password_hash):
+        raise ValueError('current password is incorrect')
+    user.password_hash = hash_password(new_password)
+    current_hash = hashlib.sha256((keep_raw_token or '').encode('utf-8')).hexdigest()
+    rows = list(
+        session.scalars(
+            select(UserSession).where(UserSession.user_id == user.id)
+        ).all()
+    )
+    now = datetime.now(timezone.utc)
+    for row in rows:
+        if row.token_hash == current_hash:
+            continue  # 保留当前会话
+        if row.revoked_at is None:
+            row.revoked_at = now
+    session.commit()
+
+
 def revoke_token(session: Session, raw_token: str) -> bool:
     token_hash = hashlib.sha256(raw_token.encode('utf-8')).hexdigest()
     row = session.scalar(select(UserSession).where(UserSession.token_hash == token_hash))

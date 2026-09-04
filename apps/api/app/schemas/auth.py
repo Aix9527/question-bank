@@ -11,6 +11,18 @@ class LoginRequest(BaseModel):
     password: str = Field(default='', max_length=256)
 
 
+class RegisterRequest(BaseModel):
+    """公开注册：仅允许创建学习账号（learner），用户名规则与后台建号一致。"""
+    username: str = Field(min_length=1, max_length=64, pattern=r'^[A-Za-z0-9_.-]+$')
+    password: str = Field(min_length=1, max_length=256)
+    display_name: str | None = Field(default=None, max_length=128)
+
+
+class ChangePasswordRequest(BaseModel):
+    old_password: str = Field(max_length=256)
+    new_password: str = Field(min_length=1, max_length=256)
+
+
 class UserRead(BaseModel):
     id: int
     username: str

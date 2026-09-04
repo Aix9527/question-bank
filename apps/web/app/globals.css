@@ -55,7 +55,11 @@ th { font-size:13px; color:#667085; }
 .twoCol { display:grid; grid-template-columns:1fr 1fr; gap:18px; margin:18px 0; }
 .statLine { display:flex; justify-content:space-between; padding:10px 0; border-bottom:1px solid #edf0f5; }
 .questionBlock { border-bottom:1px solid #edf0f5; padding:4px 0 18px; }
-.backLink { display:inline-block; margin-top:24px; color:#475467; }
+.backLink { display:inline-block; color:#475467; }
+.topBack { display:flex; margin:0 0 2px; }
+.topBack .backLink { display:inline-flex; align-items:center; gap:6px; font-weight:600; padding:6px 10px 6px 2px; border-radius:8px; }
+.topBack .backLink:hover { background:#eef1f6; }
+.topBack + .hero { margin-bottom:20px; }
 @media (max-width:760px){ .grid,.metricGrid,.metricGrid.compact,.twoCol{grid-template-columns:1fr;} .hero h1{font-size:30px;} .row,.paper{align-items:flex-start;} .paper{flex-direction:column;} }
 .attemptLayout { display:grid; grid-template-columns:minmax(0,1fr) 260px; gap:18px; align-items:start; }
 .attemptMain h2 { line-height:1.5; }
@@ -95,6 +99,7 @@ code { word-break:break-all; }
 .identityBox { display:grid; justify-items:end; gap:4px; min-width:150px; }
 .identityBox span { font-weight:800; }
 .identityBox small { color:#667085; }
+.identityActions { display:flex; gap:8px; flex-wrap:wrap; margin-top:2px; justify-content:flex-end; }
 .aiSuggestion { margin-top:14px; padding:14px; border:1px solid #bfd3ff; background:#f5f8ff; border-radius:12px; }
 .aiSuggestion h4 { margin:0 0 8px; }
 .aiSuggestion ul { margin:6px 0; padding-left:20px; }
