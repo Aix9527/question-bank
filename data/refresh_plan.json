@@ -1,0 +1,1543 @@
+{
+ "rows": [
+  {
+   "paper": "语文模拟卷1",
+   "qid": 1,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".下列字的注音，全都正确的一项是（    ）",
+   "stem_from": "1.下列字的注音，全都正确的一项是（    ）"
+  },
+  {
+   "paper": "语文模拟卷1",
+   "qid": 2,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".下列四组词语中没有错别字的一组是（    ）",
+   "stem_from": "2.下列四组词语中没有错别字的一组是（    ）"
+  },
+  {
+   "paper": "语文模拟卷1",
+   "qid": 3,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀",
+    "划线恢复(选项)"
+   ],
+   "stem_to": ".下列各句中，划线的成语运用不恰当的一项是（    ）　",
+   "stem_from": "3.下列各句中，划线的成语运用不恰当的一项是（    ）　",
+   "options": [
+    {
+     "label": "A",
+     "content_html": "遇到难题时，我们应该多听听他人的建议，<u>择善而从</u>，才能更好地解决问题。",
+     "order_index": 1
+    },
+    {
+     "label": "B",
+     "content_html": "曹文轩问鼎世界儿童文学最高荣誉——国际安徒生奖。这标志着中国儿童文学已经走向世界，也是中国文学多年发展<u>指日可待</u>的结果。",
+     "order_index": 2
+    },
+    {
+     "label": "C",
+     "content_html": "家风是一种“软约束”，通过<u>潜移默化地</u>影响，实现对家庭成员行为作风、操守的有效约束。",
+     "order_index": 3
+    },
+    {
+     "label": "D",
+     "content_html": "中国历来不乏出色的工匠，如<u>游刃有余</u>的庖丁，刻木成鸟的鲁班……他们不仅是工艺纯熟",
+     "order_index": 4
+    }
+   ]
+  },
+  {
+   "paper": "语文模拟卷1",
+   "qid": 4,
+   "type": "single_choice",
+   "kinds": [
+    "划线恢复(题干)",
+    "空位→______",
+    "去题号前缀"
+   ],
+   "stem_to": ".依次填入下列句子横线处的词语，恰当的一项是（______）　<br>①我国气象专家在说到暖冬定义时提到，目前我国尚未<u>______</u>暖冬的明确标准。定义中“比多年平均值明显偏高”只是一个<u>______</u>的标准，而究竟高出多少，还没有作出具体的规定。<br>②尽管各地的“豆腐渣”工程情况各异，但其共性都是有关责任人的腐败使然，<u>______</u><br>人们又叫“豆腐渣”工程为“腐败”工程，根治“豆腐渣”工程,<u>______</u>要严格质量管理,<u>______</u>要在反腐败上下功夫。",
+   "stem_from": "4.依次填入下列句子横线处的词语，恰当的一项是（     ）　<br>①我国气象专家在说到暖冬定义时提到，目前我国尚未          暖冬的明确标准。定义中“比多年平均值明显偏高”只是一个          的标准，而究竟高出多少，还没有作出具体的规定。<br>②尽管各地的“豆腐渣”工程情况各异，但其共性都是有关责任人的腐败使然，          <br>人们又叫“豆腐渣”工程为“腐败”工程，根治“豆腐渣”工程,          要严格质量管理,          要在反腐败上下功夫。"
+  },
+  {
+   "paper": "语文模拟卷1",
+   "qid": 5,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".下列各句中，没有语病的一项是（     ）　",
+   "stem_from": "5.下列各句中，没有语病的一项是（     ）　"
+  },
+  {
+   "paper": "语文模拟卷1",
+   "qid": 6,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".把下面几个句子组成语意连贯的—段文字，排序正确的一项是（     ）　<br>①在古代，这个信念有些神秘色彩。<br>②在一切比较深入的科学研究后面，必定有一种信念驱使我们。<br>③对于数学研究则还要加上一点：这个世界的合理性，首先在于它可以用数学来描述。<br>④可是发展到现代，科学经过了多次伟大的综合，如欧几里得的综合,牛顿的综合，爱因斯坦的综合，计算机的出现，哪一次不是或多或少遵循这个信念？<br>⑤这个信念就是：世界是合理的，简单的，因而是可以理解的。",
+   "stem_from": "6.把下面几个句子组成语意连贯的—段文字，排序正确的一项是（     ）　<br>①在古代，这个信念有些神秘色彩。<br>②在一切比较深入的科学研究后面，必定有一种信念驱使我们。<br>③对于数学研究则还要加上一点：这个世界的合理性，首先在于它可以用数学来描述。<br>④可是发展到现代，科学经过了多次伟大的综合，如欧几里得的综合,牛顿的综合，爱因斯坦的综合，计算机的出现，哪一次不是或多或少遵循这个信念？<br>⑤这个信念就是：世界是合理的，简单的，因而是可以理解的。"
+  },
+  {
+   "paper": "语文模拟卷1",
+   "qid": 7,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".下列对材料相关内容的理解和分析，不正确的一项是（    ）",
+   "stem_from": "1.下列对材料相关内容的理解和分析，不正确的一项是（    ）"
+  },
+  {
+   "paper": "语文模拟卷1",
+   "qid": 8,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".下列对材料相关内容的概括和分析，不正确的一项是（   ）",
+   "stem_from": "2.下列对材料相关内容的概括和分析，不正确的一项是（   ）"
+  },
+  {
+   "paper": "语文模拟卷1",
+   "qid": 9,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".根据材料内容，下列说法正确的一项是（   ）",
+   "stem_from": "3.根据材料内容，下列说法正确的一项是（   ）"
+  },
+  {
+   "paper": "语文模拟卷1",
+   "qid": 10,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".下列关于文中动物与植物毒素关系的表述，不正确的一项是（　　）",
+   "stem_from": "4.下列关于文中动物与植物毒素关系的表述，不正确的一项是（　　）"
+  },
+  {
+   "paper": "语文模拟卷1",
+   "qid": 11,
+   "type": "short_answer",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".文章说“还有几位‘大师’们捧着几张古画和新画，在欧洲各国一路地挂过去，叫 作‘发扬国光’。”请赏析这句话。",
+   "stem_from": "1.文章说“还有几位‘大师’们捧着几张古画和新画，在欧洲各国一路地挂过去，叫 作‘发扬国光’。”请赏析这句话。"
+  },
+  {
+   "paper": "语文模拟卷1",
+   "qid": 12,
+   "type": "short_answer",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".“我们要运用脑髓，放出眼光，自己来拿”一句在文中有何作用？",
+   "stem_from": "2.“我们要运用脑髓，放出眼光，自己来拿”一句在文中有何作用？"
+  },
+  {
+   "paper": "语文模拟卷1",
+   "qid": 13,
+   "type": "short_answer",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".“大宅子”“鱼翅”“鸦片”“姨太太”分别指什么？作者这样写有什么好的效果？",
+   "stem_from": "3.“大宅子”“鱼翅”“鸦片”“姨太太”分别指什么？作者这样写有什么好的效果？"
+  },
+  {
+   "paper": "语文模拟卷1",
+   "qid": 14,
+   "type": "short_answer",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".鲁迅在《拿来主义》中多次运用对比手法，如将“送去主义”与“拿来主义”对比，请结合文本，分析这些对比论证的作用。",
+   "stem_from": "4.鲁迅在《拿来主义》中多次运用对比手法，如将“送去主义”与“拿来主义”对比，请结合文本，分析这些对比论证的作用。"
+  },
+  {
+   "paper": "语文模拟卷1",
+   "qid": 15,
+   "type": "single_choice",
+   "kinds": [
+    "划线恢复(选项)"
+   ],
+   "stem_to": "（1）下列句中加点词解释有误的一项是（    ）",
+   "stem_from": "（1）下列句中加点词解释有误的一项是（    ）",
+   "options": [
+    {
+     "label": "A",
+     "content_html": "便<u>要</u>还家（邀请）",
+     "order_index": 1
+    },
+    {
+     "label": "B",
+     "content_html": "率妻子邑人来此<u>绝境</u>（绝望的地方）",
+     "order_index": 2
+    },
+    {
+     "label": "C",
+     "content_html": "处处<u>志</u>之（做标记）",
+     "order_index": 3
+    },
+    {
+     "label": "D",
+     "content_html": "后遂无问<u>津</u>者（渡口，指探访）",
+     "order_index": 4
+    }
+   ]
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 21,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀",
+    "划线恢复(选项)"
+   ],
+   "stem_to": ".下列各组词语中，下划线字的读音全都正确的一项是（      ）",
+   "stem_from": "1.下列各组词语中，下划线字的读音全都正确的一项是（      ）",
+   "options": [
+    {
+     "label": "A",
+     "content_html": "<u>怯</u>弱（qiè）    纨<u>绔</u>（kù）    戏<u>谑</u>（xuè）   敛声屏气（bǐng）",
+     "order_index": 1
+    },
+    {
+     "label": "B",
+     "content_html": "<u>拓</u>片（tà）     琴<u>弦</u>（xuán）  鸡<u>豚</u>（tún）   <u>锲</u>而不舍（qì）",
+     "order_index": 2
+    },
+    {
+     "label": "C",
+     "content_html": "<u>庠</u>序（xiáng） 孝<u>悌</u>（dì）    青<u>冢</u>（zhǒng） 韬光养<u>晦</u>（huì）",
+     "order_index": 3
+    },
+    {
+     "label": "D",
+     "content_html": "<u>吮</u>血(yǔn)       <u>省</u>识（shěng） 迁<u>谪</u>（zhé）   饿<u>莩</u>遍野（fú）",
+     "order_index": 4
+    }
+   ]
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 22,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".下列各组词语中，没有错别字的一组是（     ） ",
+   "stem_from": "2.下列各组词语中，没有错别字的一组是（     ） "
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 23,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀",
+    "划线恢复(选项)"
+   ],
+   "stem_to": ".下列各句中，划线的成语运用恰当的一项是（     ）　",
+   "stem_from": "3.下列各句中，划线的成语运用恰当的一项是（     ）　",
+   "options": [
+    {
+     "label": "A",
+     "content_html": "山东电视台的编导很有水平，几个经济类节目都办得<u>绘声绘色</u>。",
+     "order_index": 1
+    },
+    {
+     "label": "B",
+     "content_html": "张家界山水真是神奇秀丽，青山绿水，令人陶醉，令人<u>流连忘返</u>。",
+     "order_index": 2
+    },
+    {
+     "label": "C",
+     "content_html": "美国政府在台湾问题上的<u>危言危行</u>，只能搬起石头砸自己的脚。",
+     "order_index": 3
+    },
+    {
+     "label": "D",
+     "content_html": "考试前，有些同学天天开夜车，搞得白天上课精神不好，这样就像<u>缘木求鱼</u>一样，效果是不会好的。",
+     "order_index": 4
+    }
+   ]
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 24,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".依次填入下列句子横线处的词语，恰当的一项是（______）　<br>①张教授把祖辈_________下来的秘方献给了当地的医疗部门，受到了人们的赞誉。<br>②望着那_________的夜空，他又回想起那_________的童年，因为每一颗星都闪烁着小时候妈妈讲给他的许多动人的故事。<br>③新上任的检察长衣着_________，其貌不扬，但脸上刚毅的神色似乎在告诉人们些什么。",
+   "stem_from": "4.依次填入下列句子横线处的词语，恰当的一项是（     ）　<br>①张教授把祖辈_________下来的秘方献给了当地的医疗部门，受到了人们的赞誉。<br>②望着那_________的夜空，他又回想起那_________的童年，因为每一颗星都闪烁着小时候妈妈讲给他的许多动人的故事。<br>③新上任的检察长衣着_________，其貌不扬，但脸上刚毅的神色似乎在告诉人们些什么。"
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 25,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".下列各句中，没有语病的一项是（     ）　",
+   "stem_from": "5.下列各句中，没有语病的一项是（     ）　"
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 26,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".把下面几个句子组成语意连贯的—段文字，排序正确的一项是（     ）　<br>雕刻塑像本来是无言的，也可以拿来说明无言之美。____________.                                <br>①中国有一句谚语说：“金刚怒目，不如菩萨低眉。”<br>②凡看低头闭目的神像，所生的印象往往特别深刻。<br>③所谓无言，不一定指不说话，是更注重含蓄不露。<br>④雕刻以静体传神，有些是流露的，有些是含蓄的。<br>⑤所谓怒目，便是流露；所谓低眉，便是含蓄。<br>⑥这种分别在眼睛上尤其容易看见。",
+   "stem_from": "6.把下面几个句子组成语意连贯的—段文字，排序正确的一项是（     ）　<br>雕刻塑像本来是无言的，也可以拿来说明无言之美。____________.                                <br>①中国有一句谚语说：“金刚怒目，不如菩萨低眉。”<br>②凡看低头闭目的神像，所生的印象往往特别深刻。<br>③所谓无言，不一定指不说话，是更注重含蓄不露。<br>④雕刻以静体传神，有些是流露的，有些是含蓄的。<br>⑤所谓怒目，便是流露；所谓低眉，便是含蓄。<br>⑥这种分别在眼睛上尤其容易看见。"
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 27,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀",
+    "材料格式差异"
+   ],
+   "stem_to": ".下列对材料相关内容的理解和分析，不正确的是（   ）",
+   "stem_from": "1.下列对材料相关内容的理解和分析，不正确的是（   ）",
+   "material_to": "1.阅读下列文章，选出合适的选项。（每题4分，共16分）<br>有一年春节期间，网友编了两副诙谐的对联。一副描述回乡时亲朋长辈的盘问，上联“考了几分什么工作能挣多少呢”，下联“有对象没买房了吧准备结婚吗”，横批“呵呵呵呵”。另一副则是对这些盘问的“神回复”，上联“这个嘛呵呵呵呵”，下联“那什么哈哈哈哈”，横批“阿姨吃菜”。<br>虽是寥寥数语，但返乡年轻一代遭遇“中国式盘问”时的窘迫，跃然纸上。年前恐归中的纠结，年后压力下的逃离，故乡在很多人心中成了“想回去、回不去”的痛楚。不过，换个角度看，这些提问不也是亲友们对外面世界，不同生活的一种想象和好奇吗？正是在这个层面上，单刀直入的盘问和虚与委蛇的回答，折射出价值观念的碰撞、认知方式的不同。而这背后，则是城镇化过程中文化转型的大课题。<br>“若为化作身千亿，散向峰头望故乡”。故乡，绝不仅是舌尖的眷恋，更是精神的栖居、心灵的归宿。不过，城镇化的过程，也是以农耕文化为主导的乡村文明，向以工业化为主导的城市文明演进的过程。变动不居中，文化难免会逝者如斯。<u>作家托马斯·哈代曾感叹英国的城镇化毁掉了乡镇的静谧和乡民的单纯</u><u>，</u><u>强硬的现代化支持者印度著名导演雷伊也在后期电影中反思乡村文化的衰败。</u>当前，走向城市的亿万国人也正处身这样一个文化的十字路口。<br>有人汇集了近60位网友的春节回乡见闻，一个共同点是，物质丰富了，精神文化生活却仍显单调。在微博上，也有网友感叹：回家后与亲友甚至父母都无话可说，只能“举头看电视，低头玩手机”。而“中国式盘问”也正显示出，大城市与小城镇间、城市与乡村间的文化鸿沟，体现在人与人的关系上就是文化情趣的偏差、文化价值的溃散，让哪怕最亲近的人也难以彼此心灵拢聚。文化落差让很多人的乡愁无处安放，这是城镇化不能承载之重。<br>那些要用放大镜才能在地图上找到名字的众多城镇、广袤乡村，正是我们的精神原乡。如若失去了这样的文化根基，我们的城镇化必将徒留空虚的躯壳。故乡不可能总是老模样，那只是一种原教旨的乡愁。不过，“中国式盘问”也让人审思，如何让我们的城镇化进程“体现尊重自然、顺应自然、天人合一的理念”“望得见山、看得见水、记得住乡愁”“慎砍树、不填湖、少拆房”，这些不正是新型城镇化的文化蓝图吗？新一轮城镇化浪潮中，中小城市需要抓住超越自我的发展契机，但更要思考的是，在这样的历程中，如何尊重文化记忆，承续历史、滋养心灵、形塑认同，让上演着文化变形记的人们，不再是永恒的漂泊者、异乡人。"
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 28,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀",
+    "材料格式差异"
+   ],
+   "stem_to": ".根据材料内容，下列说法不正确的一项是（    ）",
+   "stem_from": "2.根据材料内容，下列说法不正确的一项是（    ）",
+   "material_to": "1.阅读下列文章，选出合适的选项。（每题4分，共16分）<br>有一年春节期间，网友编了两副诙谐的对联。一副描述回乡时亲朋长辈的盘问，上联“考了几分什么工作能挣多少呢”，下联“有对象没买房了吧准备结婚吗”，横批“呵呵呵呵”。另一副则是对这些盘问的“神回复”，上联“这个嘛呵呵呵呵”，下联“那什么哈哈哈哈”，横批“阿姨吃菜”。<br>虽是寥寥数语，但返乡年轻一代遭遇“中国式盘问”时的窘迫，跃然纸上。年前恐归中的纠结，年后压力下的逃离，故乡在很多人心中成了“想回去、回不去”的痛楚。不过，换个角度看，这些提问不也是亲友们对外面世界，不同生活的一种想象和好奇吗？正是在这个层面上，单刀直入的盘问和虚与委蛇的回答，折射出价值观念的碰撞、认知方式的不同。而这背后，则是城镇化过程中文化转型的大课题。<br>“若为化作身千亿，散向峰头望故乡”。故乡，绝不仅是舌尖的眷恋，更是精神的栖居、心灵的归宿。不过，城镇化的过程，也是以农耕文化为主导的乡村文明，向以工业化为主导的城市文明演进的过程。变动不居中，文化难免会逝者如斯。<u>作家托马斯·哈代曾感叹英国的城镇化毁掉了乡镇的静谧和乡民的单纯</u><u>，</u><u>强硬的现代化支持者印度著名导演雷伊也在后期电影中反思乡村文化的衰败。</u>当前，走向城市的亿万国人也正处身这样一个文化的十字路口。<br>有人汇集了近60位网友的春节回乡见闻，一个共同点是，物质丰富了，精神文化生活却仍显单调。在微博上，也有网友感叹：回家后与亲友甚至父母都无话可说，只能“举头看电视，低头玩手机”。而“中国式盘问”也正显示出，大城市与小城镇间、城市与乡村间的文化鸿沟，体现在人与人的关系上就是文化情趣的偏差、文化价值的溃散，让哪怕最亲近的人也难以彼此心灵拢聚。文化落差让很多人的乡愁无处安放，这是城镇化不能承载之重。<br>那些要用放大镜才能在地图上找到名字的众多城镇、广袤乡村，正是我们的精神原乡。如若失去了这样的文化根基，我们的城镇化必将徒留空虚的躯壳。故乡不可能总是老模样，那只是一种原教旨的乡愁。不过，“中国式盘问”也让人审思，如何让我们的城镇化进程“体现尊重自然、顺应自然、天人合一的理念”“望得见山、看得见水、记得住乡愁”“慎砍树、不填湖、少拆房”，这些不正是新型城镇化的文化蓝图吗？新一轮城镇化浪潮中，中小城市需要抓住超越自我的发展契机，但更要思考的是，在这样的历程中，如何尊重文化记忆，承续历史、滋养心灵、形塑认同，让上演着文化变形记的人们，不再是永恒的漂泊者、异乡人。"
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 29,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀",
+    "材料格式差异"
+   ],
+   "stem_to": ".下列选项中，最适合作为论据来支撑第五段观点的是（    ）",
+   "stem_from": "3.下列选项中，最适合作为论据来支撑第五段观点的是（    ）",
+   "material_to": "1.阅读下列文章，选出合适的选项。（每题4分，共16分）<br>有一年春节期间，网友编了两副诙谐的对联。一副描述回乡时亲朋长辈的盘问，上联“考了几分什么工作能挣多少呢”，下联“有对象没买房了吧准备结婚吗”，横批“呵呵呵呵”。另一副则是对这些盘问的“神回复”，上联“这个嘛呵呵呵呵”，下联“那什么哈哈哈哈”，横批“阿姨吃菜”。<br>虽是寥寥数语，但返乡年轻一代遭遇“中国式盘问”时的窘迫，跃然纸上。年前恐归中的纠结，年后压力下的逃离，故乡在很多人心中成了“想回去、回不去”的痛楚。不过，换个角度看，这些提问不也是亲友们对外面世界，不同生活的一种想象和好奇吗？正是在这个层面上，单刀直入的盘问和虚与委蛇的回答，折射出价值观念的碰撞、认知方式的不同。而这背后，则是城镇化过程中文化转型的大课题。<br>“若为化作身千亿，散向峰头望故乡”。故乡，绝不仅是舌尖的眷恋，更是精神的栖居、心灵的归宿。不过，城镇化的过程，也是以农耕文化为主导的乡村文明，向以工业化为主导的城市文明演进的过程。变动不居中，文化难免会逝者如斯。<u>作家托马斯·哈代曾感叹英国的城镇化毁掉了乡镇的静谧和乡民的单纯</u><u>，</u><u>强硬的现代化支持者印度著名导演雷伊也在后期电影中反思乡村文化的衰败。</u>当前，走向城市的亿万国人也正处身这样一个文化的十字路口。<br>有人汇集了近60位网友的春节回乡见闻，一个共同点是，物质丰富了，精神文化生活却仍显单调。在微博上，也有网友感叹：回家后与亲友甚至父母都无话可说，只能“举头看电视，低头玩手机”。而“中国式盘问”也正显示出，大城市与小城镇间、城市与乡村间的文化鸿沟，体现在人与人的关系上就是文化情趣的偏差、文化价值的溃散，让哪怕最亲近的人也难以彼此心灵拢聚。文化落差让很多人的乡愁无处安放，这是城镇化不能承载之重。<br>那些要用放大镜才能在地图上找到名字的众多城镇、广袤乡村，正是我们的精神原乡。如若失去了这样的文化根基，我们的城镇化必将徒留空虚的躯壳。故乡不可能总是老模样，那只是一种原教旨的乡愁。不过，“中国式盘问”也让人审思，如何让我们的城镇化进程“体现尊重自然、顺应自然、天人合一的理念”“望得见山、看得见水、记得住乡愁”“慎砍树、不填湖、少拆房”，这些不正是新型城镇化的文化蓝图吗？新一轮城镇化浪潮中，中小城市需要抓住超越自我的发展契机，但更要思考的是，在这样的历程中，如何尊重文化记忆，承续历史、滋养心灵、形塑认同，让上演着文化变形记的人们，不再是永恒的漂泊者、异乡人。"
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 30,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀",
+    "材料格式差异"
+   ],
+   "stem_to": ".画线句运用了什么论证方法（    ）。",
+   "stem_from": "4.画线句运用了什么论证方法（    ）。",
+   "material_to": "1.阅读下列文章，选出合适的选项。（每题4分，共16分）<br>有一年春节期间，网友编了两副诙谐的对联。一副描述回乡时亲朋长辈的盘问，上联“考了几分什么工作能挣多少呢”，下联“有对象没买房了吧准备结婚吗”，横批“呵呵呵呵”。另一副则是对这些盘问的“神回复”，上联“这个嘛呵呵呵呵”，下联“那什么哈哈哈哈”，横批“阿姨吃菜”。<br>虽是寥寥数语，但返乡年轻一代遭遇“中国式盘问”时的窘迫，跃然纸上。年前恐归中的纠结，年后压力下的逃离，故乡在很多人心中成了“想回去、回不去”的痛楚。不过，换个角度看，这些提问不也是亲友们对外面世界，不同生活的一种想象和好奇吗？正是在这个层面上，单刀直入的盘问和虚与委蛇的回答，折射出价值观念的碰撞、认知方式的不同。而这背后，则是城镇化过程中文化转型的大课题。<br>“若为化作身千亿，散向峰头望故乡”。故乡，绝不仅是舌尖的眷恋，更是精神的栖居、心灵的归宿。不过，城镇化的过程，也是以农耕文化为主导的乡村文明，向以工业化为主导的城市文明演进的过程。变动不居中，文化难免会逝者如斯。<u>作家托马斯·哈代曾感叹英国的城镇化毁掉了乡镇的静谧和乡民的单纯</u><u>，</u><u>强硬的现代化支持者印度著名导演雷伊也在后期电影中反思乡村文化的衰败。</u>当前，走向城市的亿万国人也正处身这样一个文化的十字路口。<br>有人汇集了近60位网友的春节回乡见闻，一个共同点是，物质丰富了，精神文化生活却仍显单调。在微博上，也有网友感叹：回家后与亲友甚至父母都无话可说，只能“举头看电视，低头玩手机”。而“中国式盘问”也正显示出，大城市与小城镇间、城市与乡村间的文化鸿沟，体现在人与人的关系上就是文化情趣的偏差、文化价值的溃散，让哪怕最亲近的人也难以彼此心灵拢聚。文化落差让很多人的乡愁无处安放，这是城镇化不能承载之重。<br>那些要用放大镜才能在地图上找到名字的众多城镇、广袤乡村，正是我们的精神原乡。如若失去了这样的文化根基，我们的城镇化必将徒留空虚的躯壳。故乡不可能总是老模样，那只是一种原教旨的乡愁。不过，“中国式盘问”也让人审思，如何让我们的城镇化进程“体现尊重自然、顺应自然、天人合一的理念”“望得见山、看得见水、记得住乡愁”“慎砍树、不填湖、少拆房”，这些不正是新型城镇化的文化蓝图吗？新一轮城镇化浪潮中，中小城市需要抓住超越自我的发展契机，但更要思考的是，在这样的历程中，如何尊重文化记忆，承续历史、滋养心灵、形塑认同，让上演着文化变形记的人们，不再是永恒的漂泊者、异乡人。"
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 31,
+   "type": "short_answer",
+   "kinds": [
+    "去题号前缀",
+    "材料格式差异"
+   ],
+   "stem_to": ".作者为何说“其实自然界没有‘苦’”？结合上下文，说说你的理解。",
+   "stem_from": "1.作者为何说“其实自然界没有‘苦’”？结合上下文，说说你的理解。",
+   "material_to": "2、阅读文章，回答下列问题。（第1、2、3题各6分，第4题7分，共25分）<br>种子被人踩在脚下<br>鲍尔吉·原野<br>种子比钻石更坚硬，在黑暗的大地里，谁知道种子是怎样钻开壳壁，从坚硬的泥土里生出芽呢？你看麦粒、玉米粒、苹果和梨的咖啡色的种子，每一粒都有坚硬的壳壁。它们比树皮更结实，坚定地保护着种子。雪白的种子在这样的壳壁里，从土里长出绿色的苗，比人生孩子更简练也更干净。小苗在阳光下齐刷刷地闪耀。如果说它们是一群孩子，孩子的母亲是谁呢？是小小的种子吗？这一点，植物和动物很不一样。动物和人类都是大的孕育并生产小的。人类母亲与婴儿体重之比约为二十比一。你看不到人类从一小块自身体分离的肉（如手指或耳朵）里长出一棵苗，长大变成一棵树或一个会行走的人。种子有巨大的能量。头几天，我又去了一趟三清山，看栈道旁绝壁上生出的松树。看不到树的根部有土，松树如从石头里长出来。摸松树的手感跟摸石头一样坚硬粗糙。当年一粒种子随风飘进石缝，长成这棵树。碗口粗的松树，至少长了几十年，它还要再长几百年，只因为当年的种子跟它说过一些话。“一些话”是多少句话？可能只有一句——长吧。因为没有其他的话——比如注意休息、保重身体一类话，松树一直在长。石头能吃多少苦，它就能吃多少苦。<u>其实自然界没有</u><u>“</u><u>苦</u><u>”</u><u>。</u>苦这个词是人类发明的，环境、遭遇、快乐、苦恼这些词都是人类发明的，他们为了有所区别才发明这些观念。<br>种子多么神奇，大兴安岭接天蔽日的松树林都由种子长成。松树以深红的身躯挡住了风的去路，松针在树梢根根相扣，大雪下不进树林。在南方的山坡上，竹子正准备从每一寸土地冒出来，它的翠绿让青草黯然失色。地下的竹笋不知何时均匀地占满了山坡。如果把种子撒在桌子上，它们只是一些褐色、黄色、黑色和白色的果实，它们是沉默的，是世界上最小的东西。谁也不知道它们会发芽，长成城墙般的树林，长成覆盖大地的庄稼，长成花。谁也看不出朴素的种子里包含着花的基因。种子里哪一种物质包含着花的指令？红的、黄的、白的娇嫩的花正藏在种子里，有了土壤、阳光和水分之后，小苗出生，然后开出花来。这实在太神奇。如果创造世界的不是造物主，是谁呢？只能是种子。种子是神灵。神在小麦、玉米的种子里住过或曾经住过，神住在松柏的种子里，住在鲜花的种子里，这是不会错的。世上应有好多神灵，火神自然住在火里，不用猜也知道河神住在河里而不是云朵上。五谷之神、树神和花神住在五谷草木的种子里，对吗？也许是对的。<u>否则，种子怎么会有那样的耐心、那样的勇气发出芽来，创造五谷和树林？</u>小鸟一定知道其中的秘密。鸟儿抢着吃各类种子，吃树籽、草籽和一切能生长的籽。小鸟意欲获得种子里蕴含的巨大能量。果然，鸟儿得到了巨大的能量，秋天从北方飞到南方，这是何等了不起的工程。鸟儿像种子发芽一样飞行，天空上种满了小鸟栽种的透明的树林。<br>以人的眼光看，种子被埋进土里是深重的惩罚，如入十八层地狱，这恰是种子新生的机会。土里没有风景、没有天日，真正被踩到了脚底下，只适合做一件事——发芽。这里安静、无风，亦无喧哗。种子慢慢长出向上的苗，再长出向下的根须。这时种子完成了使命，壳壁等待腐烂，一棵植物诞生了，它是树，是庄稼，或一株花。貌不惊人的种子，每每做成了大事。它的渺小和忍耐让它在不经意之间改变了世界。世界原本是可以改变的，如果有种子的话。<br>④种子在黑暗潮湿的泥土里听到了自己的歌声，歌词里面有游动的白云，被风吹斜的细雨，有松鼠和蜜蜂的身影。种子歌唱它长出地面之后所看到的丰饶的大地。种子的歌声藏在土里，下雨时，歌的片段会跟雨水形成和声。春雨下在播下了种子的田野上，雨的声音里夹杂着一些混响，像雨落在草叶或纸张上的声音。人们对此未留意，其实这是种子的歌声，是低频，比大提琴的音乐还低沉，贴着地皮传过来又传到远处。而雨声是高频，刷刷刷，盖住了种子深沉的旋律。<br>（选自《散文2016精选集》，有删改）"
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 32,
+   "type": "short_answer",
+   "kinds": [
+    "去题号前缀",
+    "材料格式差异"
+   ],
+   "stem_to": ".第三段画线句子用了哪两种修辞手法？请任选一种，分析其表达效果。",
+   "stem_from": "2.第三段画线句子用了哪两种修辞手法？请任选一种，分析其表达效果。",
+   "material_to": "2、阅读文章，回答下列问题。（第1、2、3题各6分，第4题7分，共25分）<br>种子被人踩在脚下<br>鲍尔吉·原野<br>种子比钻石更坚硬，在黑暗的大地里，谁知道种子是怎样钻开壳壁，从坚硬的泥土里生出芽呢？你看麦粒、玉米粒、苹果和梨的咖啡色的种子，每一粒都有坚硬的壳壁。它们比树皮更结实，坚定地保护着种子。雪白的种子在这样的壳壁里，从土里长出绿色的苗，比人生孩子更简练也更干净。小苗在阳光下齐刷刷地闪耀。如果说它们是一群孩子，孩子的母亲是谁呢？是小小的种子吗？这一点，植物和动物很不一样。动物和人类都是大的孕育并生产小的。人类母亲与婴儿体重之比约为二十比一。你看不到人类从一小块自身体分离的肉（如手指或耳朵）里长出一棵苗，长大变成一棵树或一个会行走的人。种子有巨大的能量。头几天，我又去了一趟三清山，看栈道旁绝壁上生出的松树。看不到树的根部有土，松树如从石头里长出来。摸松树的手感跟摸石头一样坚硬粗糙。当年一粒种子随风飘进石缝，长成这棵树。碗口粗的松树，至少长了几十年，它还要再长几百年，只因为当年的种子跟它说过一些话。“一些话”是多少句话？可能只有一句——长吧。因为没有其他的话——比如注意休息、保重身体一类话，松树一直在长。石头能吃多少苦，它就能吃多少苦。<u>其实自然界没有</u><u>“</u><u>苦</u><u>”</u><u>。</u>苦这个词是人类发明的，环境、遭遇、快乐、苦恼这些词都是人类发明的，他们为了有所区别才发明这些观念。<br>种子多么神奇，大兴安岭接天蔽日的松树林都由种子长成。松树以深红的身躯挡住了风的去路，松针在树梢根根相扣，大雪下不进树林。在南方的山坡上，竹子正准备从每一寸土地冒出来，它的翠绿让青草黯然失色。地下的竹笋不知何时均匀地占满了山坡。如果把种子撒在桌子上，它们只是一些褐色、黄色、黑色和白色的果实，它们是沉默的，是世界上最小的东西。谁也不知道它们会发芽，长成城墙般的树林，长成覆盖大地的庄稼，长成花。谁也看不出朴素的种子里包含着花的基因。种子里哪一种物质包含着花的指令？红的、黄的、白的娇嫩的花正藏在种子里，有了土壤、阳光和水分之后，小苗出生，然后开出花来。这实在太神奇。如果创造世界的不是造物主，是谁呢？只能是种子。种子是神灵。神在小麦、玉米的种子里住过或曾经住过，神住在松柏的种子里，住在鲜花的种子里，这是不会错的。世上应有好多神灵，火神自然住在火里，不用猜也知道河神住在河里而不是云朵上。五谷之神、树神和花神住在五谷草木的种子里，对吗？也许是对的。<u>否则，种子怎么会有那样的耐心、那样的勇气发出芽来，创造五谷和树林？</u>小鸟一定知道其中的秘密。鸟儿抢着吃各类种子，吃树籽、草籽和一切能生长的籽。小鸟意欲获得种子里蕴含的巨大能量。果然，鸟儿得到了巨大的能量，秋天从北方飞到南方，这是何等了不起的工程。鸟儿像种子发芽一样飞行，天空上种满了小鸟栽种的透明的树林。<br>以人的眼光看，种子被埋进土里是深重的惩罚，如入十八层地狱，这恰是种子新生的机会。土里没有风景、没有天日，真正被踩到了脚底下，只适合做一件事——发芽。这里安静、无风，亦无喧哗。种子慢慢长出向上的苗，再长出向下的根须。这时种子完成了使命，壳壁等待腐烂，一棵植物诞生了，它是树，是庄稼，或一株花。貌不惊人的种子，每每做成了大事。它的渺小和忍耐让它在不经意之间改变了世界。世界原本是可以改变的，如果有种子的话。<br>④种子在黑暗潮湿的泥土里听到了自己的歌声，歌词里面有游动的白云，被风吹斜的细雨，有松鼠和蜜蜂的身影。种子歌唱它长出地面之后所看到的丰饶的大地。种子的歌声藏在土里，下雨时，歌的片段会跟雨水形成和声。春雨下在播下了种子的田野上，雨的声音里夹杂着一些混响，像雨落在草叶或纸张上的声音。人们对此未留意，其实这是种子的歌声，是低频，比大提琴的音乐还低沉，贴着地皮传过来又传到远处。而雨声是高频，刷刷刷，盖住了种子深沉的旋律。<br>（选自《散文2016精选集》，有删改）"
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 33,
+   "type": "short_answer",
+   "kinds": [
+    "去题号前缀",
+    "材料格式差异"
+   ],
+   "stem_to": ".种子有哪些品性？请结合全文概括。",
+   "stem_from": "3.种子有哪些品性？请结合全文概括。",
+   "material_to": "2、阅读文章，回答下列问题。（第1、2、3题各6分，第4题7分，共25分）<br>种子被人踩在脚下<br>鲍尔吉·原野<br>种子比钻石更坚硬，在黑暗的大地里，谁知道种子是怎样钻开壳壁，从坚硬的泥土里生出芽呢？你看麦粒、玉米粒、苹果和梨的咖啡色的种子，每一粒都有坚硬的壳壁。它们比树皮更结实，坚定地保护着种子。雪白的种子在这样的壳壁里，从土里长出绿色的苗，比人生孩子更简练也更干净。小苗在阳光下齐刷刷地闪耀。如果说它们是一群孩子，孩子的母亲是谁呢？是小小的种子吗？这一点，植物和动物很不一样。动物和人类都是大的孕育并生产小的。人类母亲与婴儿体重之比约为二十比一。你看不到人类从一小块自身体分离的肉（如手指或耳朵）里长出一棵苗，长大变成一棵树或一个会行走的人。种子有巨大的能量。头几天，我又去了一趟三清山，看栈道旁绝壁上生出的松树。看不到树的根部有土，松树如从石头里长出来。摸松树的手感跟摸石头一样坚硬粗糙。当年一粒种子随风飘进石缝，长成这棵树。碗口粗的松树，至少长了几十年，它还要再长几百年，只因为当年的种子跟它说过一些话。“一些话”是多少句话？可能只有一句——长吧。因为没有其他的话——比如注意休息、保重身体一类话，松树一直在长。石头能吃多少苦，它就能吃多少苦。<u>其实自然界没有</u><u>“</u><u>苦</u><u>”</u><u>。</u>苦这个词是人类发明的，环境、遭遇、快乐、苦恼这些词都是人类发明的，他们为了有所区别才发明这些观念。<br>种子多么神奇，大兴安岭接天蔽日的松树林都由种子长成。松树以深红的身躯挡住了风的去路，松针在树梢根根相扣，大雪下不进树林。在南方的山坡上，竹子正准备从每一寸土地冒出来，它的翠绿让青草黯然失色。地下的竹笋不知何时均匀地占满了山坡。如果把种子撒在桌子上，它们只是一些褐色、黄色、黑色和白色的果实，它们是沉默的，是世界上最小的东西。谁也不知道它们会发芽，长成城墙般的树林，长成覆盖大地的庄稼，长成花。谁也看不出朴素的种子里包含着花的基因。种子里哪一种物质包含着花的指令？红的、黄的、白的娇嫩的花正藏在种子里，有了土壤、阳光和水分之后，小苗出生，然后开出花来。这实在太神奇。如果创造世界的不是造物主，是谁呢？只能是种子。种子是神灵。神在小麦、玉米的种子里住过或曾经住过，神住在松柏的种子里，住在鲜花的种子里，这是不会错的。世上应有好多神灵，火神自然住在火里，不用猜也知道河神住在河里而不是云朵上。五谷之神、树神和花神住在五谷草木的种子里，对吗？也许是对的。<u>否则，种子怎么会有那样的耐心、那样的勇气发出芽来，创造五谷和树林？</u>小鸟一定知道其中的秘密。鸟儿抢着吃各类种子，吃树籽、草籽和一切能生长的籽。小鸟意欲获得种子里蕴含的巨大能量。果然，鸟儿得到了巨大的能量，秋天从北方飞到南方，这是何等了不起的工程。鸟儿像种子发芽一样飞行，天空上种满了小鸟栽种的透明的树林。<br>以人的眼光看，种子被埋进土里是深重的惩罚，如入十八层地狱，这恰是种子新生的机会。土里没有风景、没有天日，真正被踩到了脚底下，只适合做一件事——发芽。这里安静、无风，亦无喧哗。种子慢慢长出向上的苗，再长出向下的根须。这时种子完成了使命，壳壁等待腐烂，一棵植物诞生了，它是树，是庄稼，或一株花。貌不惊人的种子，每每做成了大事。它的渺小和忍耐让它在不经意之间改变了世界。世界原本是可以改变的，如果有种子的话。<br>④种子在黑暗潮湿的泥土里听到了自己的歌声，歌词里面有游动的白云，被风吹斜的细雨，有松鼠和蜜蜂的身影。种子歌唱它长出地面之后所看到的丰饶的大地。种子的歌声藏在土里，下雨时，歌的片段会跟雨水形成和声。春雨下在播下了种子的田野上，雨的声音里夹杂着一些混响，像雨落在草叶或纸张上的声音。人们对此未留意，其实这是种子的歌声，是低频，比大提琴的音乐还低沉，贴着地皮传过来又传到远处。而雨声是高频，刷刷刷，盖住了种子深沉的旋律。<br>（选自《散文2016精选集》，有删改）"
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 34,
+   "type": "short_answer",
+   "kinds": [
+    "去题号前缀",
+    "材料格式差异"
+   ],
+   "stem_to": ".文中写道：“以人的眼光看，种子被埋进土里是深重的惩罚，如入十八层地狱，这恰是种子新生的机会。”请结合文本，分析这句话在结构和内容上的作用。<br>（1）结构作用：承上启下，承接前文种子在石缝、泥土中生长的坚韧描写，引出后文对种子“发芽即新生”的哲理阐述，使文章从具象描写过渡到抽象思考。呼应标题，“被埋进土里”呼应标题“种子被人踩在脚下”，强化“困境中的生命”这一核心意象，使结构更紧凑。  <br>（2）内容作用：对比反衬，以人类视角的“惩罚”与种子实际的“新生”形成对比，突出人类对自然规律的误解，强调种子在逆境中转化危机的能力。  ",
+   "stem_from": "4.文中写道：“以人的眼光看，种子被埋进土里是深重的惩罚，如入十八层地狱，这恰是种子新生的机会。”请结合文本，分析这句话在结构和内容上的作用。<br>（1）结构作用：承上启下，承接前文种子在石缝、泥土中生长的坚韧描写，引出后文对种子“发芽即新生”的哲理阐述，使文章从具象描写过渡到抽象思考。呼应标题，“被埋进土里”呼应标题“种子被人踩在脚下”，强化“困境中的生命”这一核心意象，使结构更紧凑。  <br>（2）内容作用：对比反衬，以人类视角的“惩罚”与种子实际的“新生”形成对比，突出人类对自然规律的误解，强调种子在逆境中转化危机的能力。  ",
+   "material_to": "2、阅读文章，回答下列问题。（第1、2、3题各6分，第4题7分，共25分）<br>种子被人踩在脚下<br>鲍尔吉·原野<br>种子比钻石更坚硬，在黑暗的大地里，谁知道种子是怎样钻开壳壁，从坚硬的泥土里生出芽呢？你看麦粒、玉米粒、苹果和梨的咖啡色的种子，每一粒都有坚硬的壳壁。它们比树皮更结实，坚定地保护着种子。雪白的种子在这样的壳壁里，从土里长出绿色的苗，比人生孩子更简练也更干净。小苗在阳光下齐刷刷地闪耀。如果说它们是一群孩子，孩子的母亲是谁呢？是小小的种子吗？这一点，植物和动物很不一样。动物和人类都是大的孕育并生产小的。人类母亲与婴儿体重之比约为二十比一。你看不到人类从一小块自身体分离的肉（如手指或耳朵）里长出一棵苗，长大变成一棵树或一个会行走的人。种子有巨大的能量。头几天，我又去了一趟三清山，看栈道旁绝壁上生出的松树。看不到树的根部有土，松树如从石头里长出来。摸松树的手感跟摸石头一样坚硬粗糙。当年一粒种子随风飘进石缝，长成这棵树。碗口粗的松树，至少长了几十年，它还要再长几百年，只因为当年的种子跟它说过一些话。“一些话”是多少句话？可能只有一句——长吧。因为没有其他的话——比如注意休息、保重身体一类话，松树一直在长。石头能吃多少苦，它就能吃多少苦。<u>其实自然界没有</u><u>“</u><u>苦</u><u>”</u><u>。</u>苦这个词是人类发明的，环境、遭遇、快乐、苦恼这些词都是人类发明的，他们为了有所区别才发明这些观念。<br>种子多么神奇，大兴安岭接天蔽日的松树林都由种子长成。松树以深红的身躯挡住了风的去路，松针在树梢根根相扣，大雪下不进树林。在南方的山坡上，竹子正准备从每一寸土地冒出来，它的翠绿让青草黯然失色。地下的竹笋不知何时均匀地占满了山坡。如果把种子撒在桌子上，它们只是一些褐色、黄色、黑色和白色的果实，它们是沉默的，是世界上最小的东西。谁也不知道它们会发芽，长成城墙般的树林，长成覆盖大地的庄稼，长成花。谁也看不出朴素的种子里包含着花的基因。种子里哪一种物质包含着花的指令？红的、黄的、白的娇嫩的花正藏在种子里，有了土壤、阳光和水分之后，小苗出生，然后开出花来。这实在太神奇。如果创造世界的不是造物主，是谁呢？只能是种子。种子是神灵。神在小麦、玉米的种子里住过或曾经住过，神住在松柏的种子里，住在鲜花的种子里，这是不会错的。世上应有好多神灵，火神自然住在火里，不用猜也知道河神住在河里而不是云朵上。五谷之神、树神和花神住在五谷草木的种子里，对吗？也许是对的。<u>否则，种子怎么会有那样的耐心、那样的勇气发出芽来，创造五谷和树林？</u>小鸟一定知道其中的秘密。鸟儿抢着吃各类种子，吃树籽、草籽和一切能生长的籽。小鸟意欲获得种子里蕴含的巨大能量。果然，鸟儿得到了巨大的能量，秋天从北方飞到南方，这是何等了不起的工程。鸟儿像种子发芽一样飞行，天空上种满了小鸟栽种的透明的树林。<br>以人的眼光看，种子被埋进土里是深重的惩罚，如入十八层地狱，这恰是种子新生的机会。土里没有风景、没有天日，真正被踩到了脚底下，只适合做一件事——发芽。这里安静、无风，亦无喧哗。种子慢慢长出向上的苗，再长出向下的根须。这时种子完成了使命，壳壁等待腐烂，一棵植物诞生了，它是树，是庄稼，或一株花。貌不惊人的种子，每每做成了大事。它的渺小和忍耐让它在不经意之间改变了世界。世界原本是可以改变的，如果有种子的话。<br>④种子在黑暗潮湿的泥土里听到了自己的歌声，歌词里面有游动的白云，被风吹斜的细雨，有松鼠和蜜蜂的身影。种子歌唱它长出地面之后所看到的丰饶的大地。种子的歌声藏在土里，下雨时，歌的片段会跟雨水形成和声。春雨下在播下了种子的田野上，雨的声音里夹杂着一些混响，像雨落在草叶或纸张上的声音。人们对此未留意，其实这是种子的歌声，是低频，比大提琴的音乐还低沉，贴着地皮传过来又传到远处。而雨声是高频，刷刷刷，盖住了种子深沉的旋律。<br>（选自《散文2016精选集》，有删改）"
+  },
+  {
+   "paper": "语文模拟卷2",
+   "qid": 35,
+   "type": "single_choice",
+   "kinds": [
+    "划线恢复(选项)"
+   ],
+   "stem_to": "（1）下列句中划线词解释正确的一项是（    ）",
+   "stem_from": "（1）下列句中划线词解释正确的一项是（    ）",
+   "options": [
+    {
+     "label": "A",
+     "content_html": "有亭<u>翼然</u>临于泉上者（翅膀的样子）",
+     "order_index": 1
+    },
+    {
+     "label": "B",
+     "content_html": "醉翁之<u>意</u>不在酒（意思）",
+     "order_index": 2
+    },
+    {
+     "label": "C",
+     "content_html": "佳木<u>秀</u>而繁阴（秀气）",
+     "order_index": 3
+    },
+    {
+     "label": "D",
+     "content_html": "宴<u>酣</u>之乐（喝酒尽兴）",
+     "order_index": 4
+    }
+   ]
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 41,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".已知cosx=3/5,且x为第一象限角,则sin2x=【】",
+   "stem_from": "1.已知cosx=3/5,且x为第一象限角,则sin2x=【】"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 42,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".不等式|2x-7|≤3的解集是（）",
+   "stem_from": "2.不等式|2x-7|≤3的解集是（）"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 43,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".两条平行直线z1=3x+4y-5=0与Z2=6x+8y+5=0之间的距离是（  ）",
+   "stem_from": "3.两条平行直线z1=3x+4y-5=0与Z2=6x+8y+5=0之间的距离是（  ）"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 44,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".从1，2,3,4,5中，每次取出两个不同的数字组成两位数，其中奇数的个数是（  ）",
+   "stem_from": "4.从1，2,3,4,5中，每次取出两个不同的数字组成两位数，其中奇数的个数是（  ）"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 45,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".三角形全等是三角形面积相等的（  ）",
+   "stem_from": "5.三角形全等是三角形面积相等的（  ）"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 46,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".函数 y = lgx + 5的图像过点（  ）",
+   "stem_from": "6.函数 y = lgx + 5的图像过点（  ）"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 47,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".函数f（x）=1+cosx的最小正周期是 （ ）",
+   "stem_from": "7.函数f（x）=1+cosx的最小正周期是 （ ）"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 48,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".到两定点A（-1,1）和B（3,5）距离相等的点的轨迹方程为（　　　）",
+   "stem_from": "8.到两定点A（-1,1）和B（3,5）距离相等的点的轨迹方程为（　　　）"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 49,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".设集合A={a,b,c,d,e}  B={a,b,e},则AUB=(            )",
+   "stem_from": "9.设集合A={a,b,c,d,e}  B={a,b,e},则AUB=(            )"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 50,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".直线2x+5y-6=0关于y轴对称的直线方程是（）",
+   "stem_from": "10.直线2x+5y-6=0关于y轴对称的直线方程是（）"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 51,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".设S={x|x2-5x+6=0，a=2，则下列关系正确的是",
+   "stem_from": "11.设S={x|x2-5x+6=0，a=2，则下列关系正确的是"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 52,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". 要得到y=sin（x+π/3）+2的图像，只需将y=sinx的图像 （）",
+   "stem_from": "12. 要得到y=sin（x+π/3）+2的图像，只需将y=sinx的图像 （）"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 54,
+   "type": "fill_blank",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".曲线y=x3-2x在点（1，-1）处的切线方程为______ 。",
+   "stem_from": "14.曲线y=x3-2x在点（1，-1）处的切线方程为______ 。"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 55,
+   "type": "fill_blank",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".等比数列{an}中，若a2=8，公比为1/4，则a5=______ 。",
+   "stem_from": "15.等比数列{an}中，若a2=8，公比为1/4，则a5=______ 。"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 56,
+   "type": "solution",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".在ΔABC中，AB＝2，BC＝3，B＝60°．求AC及ΔABC的面积．",
+   "stem_from": "1.在ΔABC中，AB＝2，BC＝3，B＝60°．求AC及ΔABC的面积．"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 57,
+   "type": "solution",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".已知f（x）＝4x2—mx＋5（x∈R）在（—∞，—2］上是减函数，在［—2，＋∞）上是增函数，求f（1）的值，并比较f（—4）与的大小。<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAAAyCAYAAAB24MjMAAAP9klEQVR4nO2cB3BVVRPHF8SuWAB7r4AaBI19YIwGK3ZixS4MmrGXoKJgL3Gwt4i9S3EscWxgNDZ07AQ09t4rdvR857cfm7le7n3v3Bcwyffdnbnzkse95+7Z89/d/+45oZPzIrnkkiCd21qBXNqv5ODIJVVycOSSKjk4ckmVHBy5pEoOjlxSJQdHLqmSgyOXVMnBkUuqdGlrBULk77//ll9//VX++usv6dy5syy88MLSqVOntlar3QvN79bYaY6Cg0VEUIifUW6eeeYJUtDuZ/Htfhvvl19+kQcffFA++ugjWWaZZaSqqkrmm2++Oal6uxNsgTMgZhO+swU32yY9F73s2VJAMsfA8eeff8o333yjC4lC3bp1kwUWWCDo2c8//1xee+012XLLLfXZqEyePFkuvfRSefPNN+X777+XjTfeWHbfffc5pXa7FmyKbb777jt56KGH9LvFFltMtt56a1l55ZXVQdIA8uOPP8oNN9wgffr00WuJJZZIvLeQtBocKPLDDz/Iiy++KM8995zMP//88uqrr0pFRYVsv/320r17d+nSpcs/7keY+IwZM+Tdd9+VCy+8UA466KDZ0G2IBxSfffaZAo93WUT5XxbSKMA477zz1K5LLbWU2hbnGTdunBxxxBGy6aabaiSN2tcEO6+wwgoyevRo2WabbWTIkCH6e6Yo4lopM2fOdJdddplbc8013VVXXeWamprcqaee6nzUcKNGjXI///xzy71+UfV+Hy7dV1995S6++GK3/PLLO28A55Gu38eFZ7788kvngeYWXHBB179/f+dB1Vq127188MEH7rDDDnOLLrqoO+2001xzc7PzgHFvv/22O+mkk5yPIPq9jypqoyTBbnfccYdbf/31XXV1tfvtt98SbZwmrQLH77//7urq6txmm23mvPe7L774wv3000+uoaFBF/Gmm27Se0xQ7I8//tCJeyS7tdde29XW1jofFfR7rqSJMkmfchRw/y/geP31190aa6zhLrjgAvfhhx86HzXVsXA2z73Utiw6n2kL7qOz85HWnXXWWXrvoYceqrZMA1NcSipl/XPiUSje++Xmm2/W6mHw4MGa1/h5o402kttuu0123XXXf+Q5whnP3XjjjZqG1ltvPRk0aJAsueSSel+UjEYF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\" data-source-sha256=\"2aacd75b7c98b4765296ede639a09161c575f15c97852dd8b6cfbc5e8c7d15b4\" alt=\"DOCX内嵌图片\" />",
+   "stem_from": "2.已知f（x）＝4x2—mx＋5（x∈R）在（—∞，—2］上是减函数，在［—2，＋∞）上是增函数，求f（1）的值，并比较f（—4）与的大小。<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAAAyCAYAAAB24MjMAAAP9klEQVR4nO2cB3BVVRPHF8SuWAB7r4AaBI19YIwGK3ZixS4MmrGXoKJgL3Gwt4i9S3EscWxgNDZ07AQ09t4rdvR857cfm7le7n3v3Bcwyffdnbnzkse95+7Z89/d/+45oZPzIrnkkiCd21qBXNqv5ODIJVVycOSSKjk4ckmVHBy5pEoOjlxSJQdHLqmSgyOXVMnBkUuqdGlrBULk77//ll9//VX++usv6dy5syy88MLSqVOntlar3QvN79bYaY6Cg0VEUIifUW6eeeYJUtDuZ/Htfhvvl19+kQcffFA++ugjWWaZZaSqqkrmm2++Oal6uxNsgTMgZhO+swU32yY9F73s2VJAMsfA8eeff8o333yjC4lC3bp1kwUWWCDo2c8//1xee+012XLLLfXZqEyePFkuvfRSefPNN+X777+XjTfeWHbfffc5pXa7FmyKbb777jt56KGH9LvFFltMtt56a1l55ZXVQdIA8uOPP8oNN9wgffr00WuJJZZIvLeQtBocKPLDDz/Iiy++KM8995zMP//88uqrr0pFRYVsv/320r17d+nSpcs/7keY+IwZM+Tdd9+VCy+8UA466KDZ0G2IBxSfffaZAo93WUT5XxbSKMA477zz1K5LLbWU2hbnGTdunBxxxBGy6aabaiSN2tcEO6+wwgoyevRo2WabbWTIkCH6e6Yo4lopM2fOdJdddplbc8013VVXXeWamprcqaee6nzUcKNGjXI///xzy71+UfV+Hy7dV1995S6++GK3/PLLO28A55Gu38eFZ7788kvngeYWXHBB179/f+dB1Vq127188MEH7rDDDnOLLrqoO+2001xzc7PzgHFvv/22O+mkk5yPIPq9jypqoyTBbnfccYdbf/31XXV1tfvtt98SbZwmrQLH77//7urq6txmm23mvPe7L774wv3000+uoaFBF/Gmm27Se0xQ7I8//tCJeyS7tdde29XW1jofFfR7rqSJMkmfchRw/y/geP31190aa6zhLrjgAvfhhx86HzXVsXA2z73Utiw6n2kL7qOz85HWnXXWWXrvoYceqrZMA1NcSipl/XPiUSje++Xmm2/W6mHw4MGa1/h5o402kttuu0123XXXf+Q5whnP3XjjjZqG1ltvPRk0aJAsueSSel+UjEYFYkYKIp10lCrFxYhhVrnmmmuUU2y33XaaOiyl8Ln00kvLLrvsIh4o4oGTOj429ZFH9tlnH01BEydOlMcee0y5YYheJYOD3O/TgkybNk223XZbWXbZZTX3sXgQUfIbikXBweJClHyo04mecMIJLcSK39MIE99DxDoKMOBTXD5qio+GCu6sAHGzqhFsiG2iVQfXvPPOq/YuBEC7d9VVV5UDDzxQHfecc86RZ599VvUqJiWD4+uvv5a7775bFlpoIVlttdWCStZPPvlE9ttvP/n444/l8MMPl969ewcxaIwLY49XMu1VfNqUK6+8UoYNGyYTJkwQnw4yg8PzKyWkd911l87dhHGIoi+99JI6mtm9mO1XX311qayslG+//VYjNzYtBtpga0cRSmogPBE9NtxwQ/G5saX2jlcS0edIJW+88Yb069dPnwNYIeAgsqyyyipF9ePdGM5zH3n//fe1EuLiZ59rVe8kL3OzegrWa/G8SReGZwEyBiUSuFklIv0WQrr1IZKEyuqZZ57Rd5dSXRGNeY70fP/992sK531UMVOnTpVjjjlG1lprLS3tQyIqtj7zzDPVwXgevZhTIQkuZQlDFioZmP4D3xGyCH0YDbRbqIsqzCTxnhdeeEHH2GqrrcRXN8GRgPF4V3zcqBgv8UROdXvqqad0fL7v2rWrRinP/qVHjx6a9uL6MT468nnnnXfKe++9p0DmWYC85557qoHr6+vl1ltv1VKSeTD3uOCle+21l9x3330t+mdNiaRlX8mJr060nAXY9Hco6eEjcA2i0yabbBIUlZgzbYXFF19coz6g81VPwV5UMDhALkabNGmS9h3gGiw0nUsWBJI0fPhwKSsrU5DEjYEXvvXWWxopIFihDTKEZ4y0phkCnR5++GFtmCG+gtL6Hh3Hjx8vt9xyizzwwAPimbt6ZTwU8/ztt9+uzwMIyPSxxx4rjY2NCjZ6MegNeAAh47B45eXls+li0SmNYIcIXIwm1sEHH6y2AyAQSpwQUvrkk0/q+/k59B04Ac8wHmMdeeSRieA2CQbHIossIr4ckuWWW065xssvv6xRguYVZBRAUK1AlOIRAaXogPIME9lggw30vlDhmTRg8B0h3haedx133HHK5llkIkfPnj21Mrr66qvFl4ay4oorqncTCQwkkLRLLrlEUxIL4ss+9TKiBt3J559/XsENV+I7CPJKK62Uqq+l2VKFVEp0PeWUU6SmpkZTGR6P3YiAgCJrRGJdiDQNDQ2anoqR0mBwYCjatij0yCOPKDBQkFBnfCCNP9jGGSmJ5wFaFnKJAawSSjIGiwZxg/AC1p122kk9BOF9sHQMCoDItzB2Ki2LcNxDCiA6Mqcdd9xRAW+bfJSBjPfOO+8oKNjbsQqimDB3u7K0r4l4gB6+Y1EToBM5iODwIiIb0QwdQ2zIFa18inGhkug/eZDFIpKYYmmGMoVAaUj5lCSQO9h5GoFiwSG7vId+CykuKnxPlDjqqKMUoAABwomYdwNe5jRgwACNgFEQsjA4B+PgdUZsi3mtkfdixC9JiBJjxoyRk08+WaMV5BZw77HHHprW6C/BGaiMslZxNuc494pLSdUKaAYUhF6MXii32jMowr2gtampKZPB8GariJLGZu8Bg/EzBDmasiwlcREp0DtKju0eMzApyEh11OutmoGbhIACYUzSQ1KqTXsO3bAvHOeee+6R6upq5U4AFhsAiNraWo3WOAxgNbJeTNCfqM+80adYIywT5PAuNtUIdyw0yoYQIhYGb4YtoyCRJws4uJeSMuk9TI6qAqMiln7iYqkJkPIMALVnDFToSZVDyLayFs+nQsBDWeS99967JT2kGZbF4jnGZyzr7hYTC/WQTRbdHBDb8U7eD8/ZbbfdNDXynssvv1zL9GL2NCCQlow/FuN9weBAaZoxZ599tn6CXAhT0o5g0qSpx2mrm4KE91CxrWs+40Zm7EL9hqhEeYItvgEJ7wTweCMloqUOwjuVDgsAD6G3YB3dNEFXqrpPP/1UP9lFDW2EoReR0FJ3vBfEe0lxO+ywg+7UAj7GD7En7+c+iopzzz23YKWCBBNSWwTYPJ/rrLOOIq9Y1DAihCJUCSgI+2cxAEyap0cFb+d9MPYkYbFsnPiiR4UFQndr8aO/lZwQuxNPPFFGjBjRUo3xTkI8fAZCSv7ffPPNixJL2z6g6YReVDchZNSacdFmYloUROcttthCHn30UY0wxcYH5JBw9lUoIphPsVSX6TwHHVG8ggkw6ZCFNUF5qh1at83NzRo66ZQW2lOJStKCW6XBWYVXXnlFF5+oZPrFhTAMubWNQt7NIjAv9nvoc6y77rq6HYBwHzyFUE7fBP0pj4tJtLJD0CWk52FzpCIi9CN4OjrGF5L7iCo4BuVpMRvSNKPxhRPgmCGOHQwOFCfUETkstGVt8pDXDznkECVUVAwsEM2eYuNgHBbV0kc0PPMcpR4nzwAujTDGxLjR44akJDqb/MwhJMvjAIr8TlOIUphO6tFHH62h10pIe0/SAtjYRlzj0ctIpkUsxIhqfN78DpBIvwASb6dMh4xGm4bWRqc5x/3oWggcOMUTTzyhUZD+D9EvWtKmStDGvvvvWQxfXzvvTc4j1flcGnwuwITDJn4BXU1NjfNVgfPe5bzCLQeA4ucS+J1/42BQVVWV8+TX+VSk5xs4+2H3c1CIg0Oe8Dq/6O66667TcyQ2Lu/0BM55zuB8ZHA+Zej5CIQzDz7NufLycucN7TyonAea82nBVVRUOB+C9dCSB4/z5aTzAGoZl08O23AmhXE9KJ2POvqsX7DUy6crV19frzrEbcjvnNk4/vjjnecUauvGxkadj9nIl+56PsPzH3fttdemnoPhOy4fEV1ZWZmrrKzUszTcHyLBkcNSCijEM6lUsgqhjJBJ9OBMKF1T2u9WqiWVquR+2t8gH4+kEXX66adre3vgwIFaLdmZBbzoiiuukLFjx+r+D6SZMXgPVQjeCK/o1atXC1PHe+A++++/v3oplQXf8e9ESiIWHkp6YTw6rZSXREHezX2Uv3RVIbF8V6y0JF3RoU3K+ZYu2FgjcmGfiy66SFMHtiNt0tfhHdzD/k7ajjj6EOnhUHSlPeA0woYUEaqLKzSLiLCXwt4JRmZxUTgaukPESBavZD+GMo2Q7NGvRid0Rg3G/RAujMCGGVzFUgtkzA4a2ZiM9fTTT2sbnVIVIxPS0bF///7aigbYLGi0HAUQdXV12ltgfDqgkGcEkN17770tm46kA8BFR5b8bWnE+gYIP/Ne6wjzvmjJ72YRz0Inw7kHYD7++OM6bzYCcRBsvvPOOyunoXLCMZLGABi0HWik8f6RI0cql8pyGj0YHGxAHXDAAVrvAxAYeBZCGhcmDnPmvAMLue+++2qbOl574yHkVySqKkCKl5Ru1u6tbY4RCYgWNK4wDN4fJ2IsIGSUjS10IvKQk20xWWQiJvOGsGIH7qOFjTcn9Qp4P6DiWMP06dN1IdnsCyGBUbHdYuMwxlusqZfWXOM+nBmwE105TQaosv45R3BaofGFooRzI5GuFX80w0LheRz+wfhcSWMxodBJ8TyLyv2Ah1SFjhA2gJxE2ogIhF0aXQAIMkhFEg3VRCDGwFPPOOMMBTSNN3Zkk8DBJh2pDfJHOr7++uu1J8GfCDDvUMHGWXavo3YgfQwdOlRTHtE1y0anyWzgwEthyQCBUG7tZtIIE+McA8Yr9Q9l/vFyv2B27tRC3pwSK7WLCXOg5ueTORPNDBxxYaGwAf9eKKXS36BM5+QVn0RGjkRyaCcLOEoV9MLxuFojs60GXT02eiB4bGOTu+zkELm2b9++RfdTQidgzRy8Pc43WiPRs5bRK0nwKEI+AIG8wWOIYtFOLA6DLWhV0xDj+B+hOs0b+Tf7GxE6mACODqu16+e2ZJl/wXHinINmCdveoB22DEMH7aQViB6hMfRPHDuCAAIWj8qEDihphohJaor2JVhYIhz7GqQT+jxp+0qMx7jcT9OP5tP555+vPK2UNNFWMhs42DeZMmWKXlQUTJ7uIA0rwJLl5FFHERYS8ENcqQxIq1GzwBdwEiImCx49JJQkEEJIK2SUaoHqh8ZbVkLa1hJcreQSLoDNIjDAYC+DaNSRgIHk4JgLwgYhpS49CCIu5DX0TEd7ko6lbQcRNgEht5TF7GdQ9nIUIPRoQXuRDvGft3Q04QyHNcDs7Cita0ht1v8GoS0lB8dcENIJzT0qOzqr9HL4k41SGlFtKTnnmAtC1UMKoWylPQ8oqHI6GufIwZFLqnQsKOfyr0oOjlxSJQdHLqnyHxUfgIRImx7VAAAAAElFTkSuQmCC\" data-source-sha256=\"2aacd75b7c98b4765296ede639a09161c575f15c97852dd8b6cfbc5e8c7d15b4\" alt=\"DOCX内嵌图片\" />"
+  },
+  {
+   "paper": "数学（文）模拟卷1",
+   "qid": 58,
+   "type": "solution",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".已知椭圆C：＝1（a&gt;b&lt;0），斜率为1的直线l与C相交，其中一个交点的坐标为（2，），且C的右焦点到l的距离为1．<img src=\"data:image/png;base64,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\" data-source-sha256=\"4ca6af4d6eefdaf035dc3da99be5b0485d1683640af60c445bd30c1e08502390\" alt=\"DOCX内嵌图片\" /><br>（Ⅰ）求a，b；<br>（Ⅱ）求C的离心率.",
+   "stem_from": "3.已知椭圆C：＝1（a&gt;b&lt;0），斜率为1的直线l与C相交，其中一个交点的坐标为（2，），且C的右焦点到l的距离为1．<img src=\"data:image/png;base64,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\" data-source-sha256=\"4ca6af4d6eefdaf035dc3da99be5b0485d1683640af60c445bd30c1e08502390\" alt=\"DOCX内嵌图片\" /><br>（Ⅰ）求a，b；<br>（Ⅱ）求C的离心率."
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 59,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".掷两枚硬币，两枚的币值面都朝上的概率是（　　　）",
+   "stem_from": "1.掷两枚硬币，两枚的币值面都朝上的概率是（　　　）"
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 60,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".若α+β=π/4，则（1+tanα)(1+tanβ)=",
+   "stem_from": "2.若α+β=π/4，则（1+tanα)(1+tanβ)="
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 61,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".点P(-5，12)到y轴的距离为（）",
+   "stem_from": "3.点P(-5，12)到y轴的距离为（）"
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 62,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".直线2x+5y-6=0关于y轴对称的直线方程是（）",
+   "stem_from": "4.直线2x+5y-6=0关于y轴对称的直线方程是（）"
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 63,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".若直线ax+by+c=0过第一、二、三象限，则",
+   "stem_from": "5.若直线ax+by+c=0过第一、二、三象限，则"
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 65,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".已知a&gt;0且a≠1，f(x)=x2-ax，当x∈(1，1)时，均有f(x)&gt;1/2，则实数a的取值范围是（ ）",
+   "stem_from": "7.已知a&gt;0且a≠1，f(x)=x2-ax，当x∈(1，1)时，均有f(x)&gt;1/2，则实数a的取值范围是（ ）"
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 66,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".双曲线的渐近线方程为（）<img src=\"data:image/png;base64,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\" data-source-sha256=\"367451305d3c3bf0efe26bf8c9280f712956084a0fd0a5cbcd80fbf3cc4af76d\" alt=\"DOCX内嵌图片\" />",
+   "stem_from": "8.双曲线的渐近线方程为（）<img src=\"data:image/png;base64,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\" data-source-sha256=\"367451305d3c3bf0efe26bf8c9280f712956084a0fd0a5cbcd80fbf3cc4af76d\" alt=\"DOCX内嵌图片\" />"
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 67,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".直线2x-y+7=0与圆x2+y2-2x+2y-18=0的位置关系是",
+   "stem_from": "9.直线2x-y+7=0与圆x2+y2-2x+2y-18=0的位置关系是"
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 68,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".不等式x2 - 2x&lt;0的解集为",
+   "stem_from": "10.不等式x2 - 2x&lt;0的解集为"
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 69,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".函数的图像之间的关系是（）<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ8AAAAlCAYAAABcSjvzAAARnklEQVR4nO1c6XcU15X/verqRUtLLbSABJbQAkhgZItNYjPYYDA2juMcZgYmIcdJOMlxvszXzH8wjmc+DXPsJDOZ+TDHmY0kjDE7ZklOsMNi9tUsEovZtCK1lu6qmntfLb0vgGSBpy+n1N3VVW+573fv/d37qhGaphnISU5IDCH4LwQhQhj2ubHrTx27pnPybAmDTrfeK2MKOlty4MuJJQYMI4xwWIOmAV5fHp0T9G/sAmMOfDmBruu4e+c2Tp8+joOH/ogZjbOwceM7Y95vDnw5kTIU0lFVPxtlV79Cb3+QQnAYQigcjMesT2XMWs7JMyOKoqCmphqNDfWYWFGOUDhMnM9FYXhs+815vpxIYR+nCB0elwKPx2t5vBzny8nXIgQ2cnUuIaBrIQk6McYZby7s5sQR9nYer4fe6PROl69jKU+15zOE4Th9YR2jU4DiVjUONNSoYnIbq1klqsAaGccodPkMCGtbI8C5PG7o5PaUbJMNEbaUxL4s/h575QzriMhTDT5FV5yVdwAgEifx6GLg5MmTGBocwvx58+FSXYBl5AaBUVdiFRgPxmdRDIPDaGowcZh1EfD0kSFoQ0Oke32Ust3U6/WUh132TiF5CBE2jzTAM7JMz/iyy5cv46P/+E88HBxGmNSgKS55GJJk217WeHKcj7OEKXO9cuUK+vr60uqH560bLoR1OgzWA/slEx6p7rt9+zY6OzuTqsm8hQvXvIbkGWkt4+Wp9XyapuH0+VO4ebOdvJKB5yZPwcwZjXD7CiBzM5rdEFno4OAgZWce+VpWVpZV2+wANF1DRXkZCvN90uIjrlWTXEenPo8dPYqpU6eirGJyWq/xNArrJxgMYvv27Zg8ebKcR7I58DkTXAw/DVp4iKY/Qu/DdF5IWpJq7iUlJfj4449R31CDOS1zYyIu38I6fNB5D6HQMPLy8inShFFZWem0Fwc+++5szT2BkaW4N9p5G04an7JVUgZb6569B/DOD38Ar+rB/r17cf3KLbz19rflrQw8trzzFy5AoTA5tWYqioqL4PV4M49acjwF19uvY/fOHYTtSEhihXm9XrjdKg4ePAh/kR+bNv0Efn9RikWInnf83LMErAHL38aciP0cxZ0M51yyPszzbFwf/eYjTJo4EW1tbQljt1fE9mo3Ozpw+cJp/OnQfnR3d2HHtq1onDkbtfXTpL4i90fmmJeXhzVr1uCDDzZTay60tMyJuk7BQLCfwNeFAwf3Y/q06WToRZhI43G5XPKKJJ7PnmTmTMewlMSKE7oZsHTzRIyERCxI+a+aAd/sycrJsgIFhcTJVLzQ8iJ++at/weo31sBH4PD5fKieWoMjXxzHSy+9hEkVFVkRZB4KP73R0z+ASdW1aFu+ksDrgmIpTSOuw0VXQZlHy8LFcpaFHl/i4sWshbBmZ+rMvtaIzmTSSMjWuXMpv7dJqKkoToTcNungREzwgwDJ29bJc586dxrD5HFWr3pVzieTeAuLUF7fjB/9zWy53cYGWFTilxM0KbAN+dg+/X4/Nmz4Ht5//31MmVKNCloHUzQUFBaQx63D4K49mDe/DQEy4OgQrppzsbMRzWHXRD+di1KRVZOQ8ve6FdetwcUpxa3Zk49CnCu1Qriv5uZmzJ7VRJcJqf+Bvn7UPFdDHskjeUx3TzeGhodx48YNFBQUYGBgAIX0KlIsNo+Lh6WweRAP0YaD8Lh0+PPdEnz22IThoYPnpctw4Xa75TzjRbFtU2iIX5iIgjMDj69VCX4R9ZiAFfEUiXSiSXy6zHYNFcm9rYFh0suWLVvwV3/xl/B4k0cCxRmjdGuoKAmgfEIgatxWfIrneyJxXhzWGxoasG/fPgLiBomHYfJ6fQ/7cPPWLSKeFHY9Knp7e1FUVOTcp9oD4H+dnffx5ZeXMWPGDARKyuU3165dw6VLl7BixQqoapyjtEB77vx5uu8SLRctGGWQWihMLtn0Fg/7++Ems+WM0kMLyYqprJqChUtWOO43mfC9wsXXc3j9CkeOHMEry5dJDzVCfPDMmTMoDgSweNFiXL16FbXEadIudlTZZmh4hMZ7Fbo2gqOH/0BejiCp6bJPlyqoDwWdXffx+Z8/x4b169EwrSVl20M0vhPkfUvLyon7TJPnBoID2LN7N1auXAV/oT/lkNhgdu3ahWDPXTkv7p/DviCDU1S3BKbfX4heShZUMjpOiNpaF6G2tj4tM7p37y6Fzm4JCNutxIsW7w2F5bkN+72QnC828zfMFCQOkOxZ586di61bt2LdunXSYIMjOv745y9orLVonteG85evYnpdXcx9Ek06tT9MC3Lk2AmcOHESl75sx19vWC/BcYuQy4hetmxZIvhgDrKutgFV5HJV4knDYSHDGnssVmY4TANVNDkp5iHSpXvcaYFnSy+Fxi2/+51c3FUrV1A/z1GbJidbvmy5xH7kCbRUPs8aJ/UvfQZ7Ncrops9oRkkF8Y/iKqk8nQCt0Jg8MgDoGBzuJ6O6A83wIxnwdGqQgfLpp4dw+PBhdHV34u/ef0/yoODQIHbv24vZzS9I8EVIfawwdVi+fDkGaTyS2MNKAOSETNiwzsM0NpfgxQojn+6xctOk42LpJJ7F+mUQJBWOZPqQ/cEZn82OZJQzbEoV+d7c8lAlBKMjIX/H4banp0c6FzclgCWBErz15ptyjIZielA1Tg8m+LiYoYUxd/4CzFvQis3/uJmU2S2zx6qqyUQ8Z0KlBpPMQk7fRy5VdQmprzxVlwCxB09EhTp2WYNVJfgycRCbYhQSn/juxo144821+P1v/wdbtv4e676zzvESpiWmB13sWM0F8/nclET8QI5XRC+AbnlHet8b7MGkqnK54Z5KwqEQqmtqsKC1De/9/D1cu3ods0hXBfmFmFhRibLSMmdxkgkDpLi4GMVcjrCusV8lPWA6YHASxHyB648eU3eGVQmP4psRUaCR8QQHBilzpYzVk2jknGgdO/oZBilpC5L35coCUw9V9dKYVOQXcGY6iIH+PmpjRILY5/PKsbUuXIqmmc/HNsjRKDQiD07eOOwqDle0HKXh+E1HVJMHCVJYvjwYHBUVpTLbLC0tlY21tLSkAIwhgXv63BlcpnDN9w5RyOGEgAfg9foQGqFB0cFWzhlqkCZVXV2NV15ZndSTWs1KlbrkBAziIiVY+8Za/Pwf/h7LX3oZFeUmJRBZA88U9lSGYR4u4pxGmGuIJrnSaaG48Bwc0tC6eIkEFoPDlYTvsXBo5hLPzKZGCdyXiRKcOH4Cs5pmyoWvnVqLwjQhl6WfKMn+/ftJLw8pwQrK0K9FGSd7Y9YR649Nx+vNo+RqGYWyutTbLnS+snKyXPCurm5UTZoU+zV9UUkOZemr35JzZGWHwqYOZKJFrx6KTCNEnRg8ttnI72iefl8SDikY0O0oo3Vhzw/pvUXCNfHirL7kWJBIRF19Hc5dPIsX5zTjytVLWLRokeU1YhdCApoWoXHWbNSTNegMGt0csSLDrl2nNWxeSwAwcw1VTe39whSed+7YgabGRtQ11EmXXVxUSG4beEgk1gZftsJzGyBA7Nt3wDECSQnY4/CYGJA0sB4ixP68Atz+6h718xASd0wZkBi+4pOw2c/Pwge/+IDa6CI+eRELFsyVAE8n+WTsq1atIv7lsTyGM2BnXHYoVsiYVRqjR4bS6O2qxFLLRAqB9XUN+IIoVNXqiXH1NwIxGU15XEnKsLy/Lnc2rGujs/A0BWr2nMePH8eSJUuksUjdZOEWYlyPbm0kc8Kxa+9uHD9xgtDMhdiCSDUrSukKacjkUiolFZaVuJKVaESaT4nCHOfk6dNwkwetJSXyDQ/ud5P79yFAXOJRhcecl+/D6tdfcbyKyWEiVXxb2Pb5zJHPD6OU+hJR16cqtvL5cjIIbvvYsWNyMebNm5dxnnw981e7xBszZrPlSB+kZcVwx3ybXAikBNBvv/0d/Nuv/xlt81sogk1E4hoktmHXPw2H71mPVKXozqYIFy5cQIi8KCel9n3ZlIpjNC8sLlU5qZKy3TLKIjuIw7xA52iRjEQr5sRCRndh8iliG7IyLoyRtAcwknZQKrn9V1evQvuNWzh15hy+OHkGO3bvxcpVa2hcjw4+OTf656EMUhUu81DIYIRORjNiHoKPYQqzYTLlEG5f70CgoJiW3INM5sKL4CGK8ULzXPzv1k9IZ83EgT2PsC8aStCRK+5QjJC5gc9HygIznFIZe76XX16BTz7ZJmumaXUj+a6G4YdduHXlAu7dvAYt2Ed9hjOOnAv9O3fuxKYfbZIlr0cRQSHOiK4B81vO1nbu2YuFra2YVF7hINSw3a/tARzCaziWpAu7SJ1elDRu3KwdGuh52I/2mzcl4WX+GQgE4FVEVhvSuh3qLdYrosYaSTMi1KmnpxcdHe3IFwPoaL+Bf/33LVi//vv41tq1MJJ4c8czWV6CSf6hQwel1+HwY4ZL58K0iZaerIaaoJ74DDfxHsOw4W7WBPmJ5IuXz6PrXifaKCny5flStn/6zEnsO7Abr654AxfOX8RZ+vzTd9+lyDfRbFvEBnnu687duzhKnr6NElWmQtmV1CMiw27Pgzu4Sw1No3DLhduOGx1Y1NZqZmuWAm1A8GHvBkSWMPJJMaLPPZ7YPCdQ5EcxZY/2GicGpywaskRuU0YXVu1+rFNFlOGVErh//avf4k9HjuP5ljlYsGwpNJWId4LXNzBA3K6dssbGxib5+cLFS/JZuFYy2CQ7UWn3htMZYtyVWVxjcjTuTnEJmZkOVQ9I7xcNvmhhw9i+cxf8EwKYTtfXTWsio7+BbTu24/sb35H83WrZ2iEy7/MSf37ttdfgcalm+SbLWTgjZc937OgxfPjhh1ixciVKJ0zAi5TdlpWVxijMobhR3GfsHzUSSd5n94BjsmQwm/HevtONG5RwTJtRS4D0ypAnpI3GNnj+7Cls3rwZS5cuRaA4gOdqajCdMl2VF8Im7GOun1hxiL4wPb9MWMjbKlbSZ3+XbGzXKFvlctoUyoR1LYw9n+7CdaIemzb92Ko8iJiCtclTDbOm+5jzFCEtbATDOm7euk18xyV/QJJP6bSbt8zs6JoC0tETsMnn6D79kSyEJ9tSSiKKnblFGVAWtxnWvhYXo4WVUOlJHM4ItX3/ficR7TCKiv0o8vtJf7EdjPdzgDLUu5Sk2kp4YFb+EfJXa30Pe/BPv/gl1r75FmY1NcnvFYuTOU5dRHDxuPOU4DNrfZB72TZPsX86Et1JuglkeljxccRkkolZWjY/apGlijielRX4nH4iY0jen5H4KW7+qfrLptA+KmKBJZnxJICPPt/ouI7Df/gUZ86excrX38bCxYvhsbieQcbMGS2HWAZitGN6XPCpSoRQWcVBU4dcjdZt962bWyPpFp1rc+ziXSLrh68zyqMAzXkWPsoauRCcSTEJhmXE+tpk/YsolUUSruzKCyxfC/BY7CQhi3HxnIrLKlDXshB9Ih+fff4ZZs9qRGBCqaMTyfVFrEayMugUUVGk+o+ChCycUHjRwrJT/kmdrXEn8YhSogQpItzg6xTpneM8b3YhNvFcuvvsPlLt1T6pjA11ybp3yd+GSSlhgsS2//4vdD64i5+8+1PrEbMn4/nJImMGEzRkwZTDRPQPmWTFPc56zR2S8ZMnWbBsgRT7nN43R/gRtdu3bspHn7g6mU9Am//iHJw9dRb9A/2xVYNR7DcD+IR8olfuwWZYW+kNn2Ag47mg0aAaT1jZXvXrFi4U/+xnf4ur166ZDzQgjJ7eBzIJ4P3t+KrHaElGz2duKGduyLD2R8fV/T2iyKEaEeDL12+YV8tG+OmlGY1NeNDZi+HQCL3ex7btH+O119egIL9gzBxDSs6niVhvFJ2hOXu78ovRyXLHl+9EeOx4eZ/xlq7uXhw49Jl8Ho9/eMSPki1d0gqvO/Nzl48rKcGnC0QeKoyS+C2U8a5ljZaMRanoWRJexrBu8j+mWYq1jTmW/1dLSvDFIOwbArCcpJdMZafRltS/280B7v+9jHUc+D9e/K+lvpze5gAAAABJRU5ErkJggg==\" data-source-sha256=\"00f0098a55cb815b9be4ac797f5c72ac48c29e999cd929ceb03fa16c08e55367\" alt=\"DOCX内嵌图片\" />",
+   "stem_from": "11.函数的图像之间的关系是（）<img src=\"data:image/png;base64,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\" data-source-sha256=\"00f0098a55cb815b9be4ac797f5c72ac48c29e999cd929ceb03fa16c08e55367\" alt=\"DOCX内嵌图片\" />"
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 70,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".双曲线 与直线y=2x+1的公共点的个数是（）<img src=\"data:image/png;base64,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\" data-source-sha256=\"4c15d7d7ac247814d7d332997068ed0b77752d9eb26b1372a382ff216ed34142\" alt=\"DOCX内嵌图片\" />",
+   "stem_from": "12.双曲线 与直线y=2x+1的公共点的个数是（）<img src=\"data:image/png;base64,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\" data-source-sha256=\"4c15d7d7ac247814d7d332997068ed0b77752d9eb26b1372a382ff216ed34142\" alt=\"DOCX内嵌图片\" />"
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 71,
+   "type": "fill_blank",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".由大于-3，小于5的整数组成的集合为______．",
+   "stem_from": "1.由大于-3，小于5的整数组成的集合为______．"
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 72,
+   "type": "fill_blank",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".曲线y = x2- ex + 1在点（0，0）处的切线方程为______.",
+   "stem_from": "2.曲线y = x2- ex + 1在点（0，0）处的切线方程为______."
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 73,
+   "type": "fill_blank",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".掷一枚硬币时，正面向上的概率为1/2，掷这枚硬币4次，则恰有2次正面向上的概率是______.",
+   "stem_from": "3.掷一枚硬币时，正面向上的概率为1/2，掷这枚硬币4次，则恰有2次正面向上的概率是______."
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 74,
+   "type": "solution",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".已知数列{an}的前n项和Sn =-2/3（4n- 1）.求{an}的通项公式.",
+   "stem_from": "1.已知数列{an}的前n项和Sn =-2/3（4n- 1）.求{an}的通项公式."
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 75,
+   "type": "solution",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".已知函数f（x）= x3 +x2- 5x- 1.求f（x）的单调区间；",
+   "stem_from": "2.已知函数f（x）= x3 +x2- 5x- 1.求f（x）的单调区间；"
+  },
+  {
+   "paper": "数学（文）模拟卷2",
+   "qid": 76,
+   "type": "solution",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".设椭圆的中心是坐标原点，长轴在x轴上，离心率e＝，已知点到椭圆上的点的最远距离是，求椭圆的方程．<img src=\"data:image/png;base64,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\" data-source-sha256=\"60352f01fb92c66761d7b282217f3c0ae3b1be100a6567ff6e1d26e723239b9a\" alt=\"DOCX内嵌图片\" /><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGsAAABHCAYAAAAA0blBAAAOHElEQVR4nO2cd6wU1RfHL8WCgIJ0LCABgvSioGIQQUB6NRRpRhBIEAGRiPLHzyhGiErUqFgpJoJSFax0ldAttCAdFJQmqKBY728+J5zNsMzOzuw8dt+a/Sab997szp17T/2ec+++AtaBySErUDDTE8ghOHLKyiLklJVFyCkri5BTVhYhp6wsQuFMTyBbQIXz77//yovfL7roIlOgQIG0ziGnrAD466+/zKlTp8zBgwfN77//bv755x9TuXJlU6JECXPJJZekTWk5ZQXA7t27zZgxY8zGjRtN6dKlRXnHjx83Tz75pOnZs6cpXry4fO5CKy3fKYsQk+7wkgjMBW96+OGH5edjjz1mmjdvLp61YcMG8/rrr5sff/zRPPjgg+ayyy674PPJOMEgB/z5559irQiBv/MTmNt3330n4e/KK680VatWNdWrVzcdOnQwV1xxhVmyZInZsmVLqDExAtaqITUoMqosJo2SDh06ZObOnSvX8otXKVBI9+7dTdeuXU2VKlXkGnPkepEiRcyRI0dk/mHAur/66ivzxhtviMKCIuNhcO/evebdd9815cqVM4UKFTL5qa+MUkqVKmXGjRt3znXm+Msvv4igy5QpI3MPA+4n9y1cuNDUr1/f1K1bV/JeMkPNqGf98ccfEve//vprM2TIELmW3zwL6Jw0fP32229mxYoV4lF33HGHadKkSajxMEqM4N577zUjR440a9eulXCbFDaDWLVqlW3Xrp11wkEmpxEIjmHZw4cP282bN9tJkybZChUq2OnTp1tHcdbJs6HHc5RuT58+batVq2bvvPNO6zDNpPdkJAw6zxWveuWVV0yNGjVM+/btMzGNUPjhhx/Ms88+az777DNhgIRByFAYguAG3kqNNmjQIPP222+b9evXm4YNG/reU+h/DlJ6WgSwwK1bt4qybrjhBuNYVr4Mf24ULFhQWGDjxo3Ntddea2rWrGlWrlwp6yhfvrzkrTBrsGdLlKuuusp8/PHHMv7tt99uChf28Z/wASEaCBmnTp2yPXr0sLVq1bLORCUk8MoGMH9eDgu0nTp1so7i7NSpU0PPX8chvPbv3986uc+uW7cudt0LaScYzjOF7hJOKCShwNpvy4/QUKf1H96gLPHmm2+W6++9917ocXWciy++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\" data-source-sha256=\"c9c53d577d0c7217789d2516fcf3f5f378bd57dde47bd67d28b981c47173c74f\" alt=\"DOCX内嵌图片\" /><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAtCAYAAAApzaJuAAAEzElEQVRYhe1Y2ytlbRh/bAaDQeQs40zCoNQkyoUm4oILV4q4UVy4VP4AF6LcuVFKEjUa5JBjCYNJExKmSTmfjfOZeb/1e/rWbtvW3tbe++vjwq/WvLP3etd+fs/vOb2LlZBArwyalyaghDdSavFGSi3eSKnFqyRlY8nDlvTdv3//kpWVFWk0T3Uxm9T9/T2tr6/Tnz9/nt2rRN7W1pYCAwPJycnpCTErc8fM7u4ulZaWUn9/P717984gGSiCSx8ODg709etXSkxMJDs7u0f3zFIKxrq6uujh4YEaGhooKSmJQ6ELmYy1tTV/1r+Pz87OzqyYPswmNTAwQJGRkZScnEweHh5PjMoq2djYKIZPST0ZJlcfcunnz5/0+/dviomJIVdXVy0JKIdVJgGismK638kJjkvfGcBkpUBqaGiIfHx8KCAggPPp6uqKVldXaXFx0aACSOqQkBByc3PTkjMEk0jB27u7O/r+/TvFxcVRWFgY//jp6SnV1tZSa2sr39c1iGdub28pPT2dKisrtaSMQTUpOTyXl5c0NjZGhYWF5OLiwgSg1NLSEvn5+ZG/v/+j5IWycAKlr5TUFpECjo6OqL6+nhwdHenjx49aI+hVv379ovb2dgoPD+fklgltbGxQZmYm5ebmcrj/c1JnZ2c0OTlJBQUF5O3tzd+hX83Pz1N2djZXIxIf6kFZFENFRQVlZGRQfHw82dvbqzMkVEJKYDE9PS2kZBU9PT1CIigkJcTJyYmQElzMzMwIKXe0+29ubsTIyIjw9PQUo6Oj4vz8nH9DDVQrJRmntbU1zg14/f79ey7pDx8+UEREhDa55Zm2tbVFnZ2dFB0dTbGxsRxytVBNanNzkzo6Oig/P58TXO7USkCYe3t7ucHW1dWxA6bABiUMA0pjQAbyY29vjy/MKjmRDWFhYYHa2tp4vkVFRT27Xx+awcFBLvPr62teQVIXckeGoYODAwoODjaqEpzp6+vjSi0qKuLwGmuUiqTgCab0t2/fqKSkhMbHx590ZVQRRgvC5u7ubtQIQreyskK+vr705csXkwkxKTQ8qXKopaWFCUmVRRcXF482YYQgdHl5edybjBmamJig2dlZHtJS5ZlMiElJpUvNzc3sGXrPjx8/aHl5WbsBqqGDIy9SUlKMnjZxD7kEp9Bc9c9JaoCGq8E/yJXy8nIqLi7mOdXU1MQrjKA5zs3NkZeXF3tuSCWQPzw85KGMfTjSyCcCU4Cc1iARGxsb2bPPnz9zzxkeHubxgA1TU1O0v7/PI8JQaYM8FO/u7uZQo+qgujmkgEfnKRwvUlNT2QhGB1aQCwoK4vml1Dq0PyQ1UoQYe1B5aJ7mAM9zA9H1KCsri6d+VVUVk0TVwSBUMkQI34NQWloaVVdX8xnL0Ln9OXBP297eFtKRhGcOVlySSiIhIUHk5OQIqQBETU2NOD4+Njqv8BxmoZQKQhovYmdnR+1YfQIooSWFgYlLkl6UlZUJaV4JKXRCekl4dpjKz8qXJdB8+vRJ+94lhxFDF40PK5I/NDT0WdnlZ81NbhkQSvHFARWJnoTTAKoOn/8vsFMcQwXg6Iu+g8QDKayWKGASMSVS4t/zuO7rtKVhsZiUTEwmofv/FyX1kniVf596I6UWb6TU4h/WcZ4iK4Bo5gAAAABJRU5ErkJggg==\" data-source-sha256=\"ad42f827eb342140f6efc0f370fa9c74e1fe609fcdd59e6eb86853610f4dc9ec\" alt=\"DOCX内嵌图片\" />",
+   "stem_from": "3.设椭圆的中心是坐标原点，长轴在x轴上，离心率e＝，已知点到椭圆上的点的最远距离是，求椭圆的方程．<img src=\"data:image/png;base64,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\" data-source-sha256=\"60352f01fb92c66761d7b282217f3c0ae3b1be100a6567ff6e1d26e723239b9a\" alt=\"DOCX内嵌图片\" /><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGsAAABHCAYAAAAA0blBAAAOHElEQVR4nO2cd6wU1RfHL8WCgIJ0LCABgvSioGIQQUB6NRRpRhBIEAGRiPLHzyhGiErUqFgpJoJSFax0ldAttCAdFJQmqKBY728+J5zNsMzOzuw8dt+a/Sab997szp17T/2ec+++AtaBySErUDDTE8ghOHLKyiLklJVFyCkri5BTVhYhp6wsQuFMTyBbQIXz77//yovfL7roIlOgQIG0ziGnrAD466+/zKlTp8zBgwfN77//bv755x9TuXJlU6JECXPJJZekTWk5ZQXA7t27zZgxY8zGjRtN6dKlRXnHjx83Tz75pOnZs6cpXry4fO5CKy3fKYsQk+7wkgjMBW96+OGH5edjjz1mmjdvLp61YcMG8/rrr5sff/zRPPjgg+ayyy674PPJOMEgB/z5559irQiBv/MTmNt3330n4e/KK680VatWNdWrVzcdOnQwV1xxhVmyZInZsmVLqDExAtaqITUoMqosJo2SDh06ZObOnSvX8otXKVBI9+7dTdeuXU2VKlXkGnPkepEiRcyRI0dk/mHAur/66ivzxhtviMKCIuNhcO/evebdd9815cqVM4UKFTL5qa+MUkqVKmXGjRt3znXm+Msvv4igy5QpI3MPA+4n9y1cuNDUr1/f1K1bV/JeMkPNqGf98ccfEve//vprM2TIELmW3zwL6Jw0fP32229mxYoV4lF33HGHadKkSajxMEqM4N577zUjR440a9eulXCbFDaDWLVqlW3Xrp11wkEmpxEIjmHZw4cP282bN9tJkybZChUq2OnTp1tHcdbJs6HHc5RuT58+batVq2bvvPNO6zDNpPdkJAw6zxWveuWVV0yNGjVM+/btMzGNUPjhhx/Ms88+az777DNhgIRByFAYguAG3kqNNmjQIPP222+b9evXm4YNG/reU+h/DlJ6WgSwwK1bt4qybrjhBuNYVr4Mf24ULFhQWGDjxo3Ntddea2rWrGlWrlwp6yhfvrzkrTBrsGdLlKuuusp8/PHHMv7tt99uChf28Z/wASEaCBmnTp2yPXr0sLVq1bLORCUk8MoGMH9eDgu0nTp1so7i7NSpU0PPX8chvPbv3986uc+uW7cudt0LaScYzjOF7hJOKCShwNpvy4/QUKf1H96gLPHmm2+W6++9917ocXWciy++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\" data-source-sha256=\"c9c53d577d0c7217789d2516fcf3f5f378bd57dde47bd67d28b981c47173c74f\" alt=\"DOCX内嵌图片\" /><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAtCAYAAAApzaJuAAAEzElEQVRYhe1Y2ytlbRh/bAaDQeQs40zCoNQkyoUm4oILV4q4UVy4VP4AF6LcuVFKEjUa5JBjCYNJExKmSTmfjfOZeb/1e/rWbtvW3tbe++vjwq/WvLP3etd+fs/vOb2LlZBArwyalyaghDdSavFGSi3eSKnFqyRlY8nDlvTdv3//kpWVFWk0T3Uxm9T9/T2tr6/Tnz9/nt2rRN7W1pYCAwPJycnpCTErc8fM7u4ulZaWUn9/P717984gGSiCSx8ODg709etXSkxMJDs7u0f3zFIKxrq6uujh4YEaGhooKSmJQ6ELmYy1tTV/1r+Pz87OzqyYPswmNTAwQJGRkZScnEweHh5PjMoq2djYKIZPST0ZJlcfcunnz5/0+/dviomJIVdXVy0JKIdVJgGismK638kJjkvfGcBkpUBqaGiIfHx8KCAggPPp6uqKVldXaXFx0aACSOqQkBByc3PTkjMEk0jB27u7O/r+/TvFxcVRWFgY//jp6SnV1tZSa2sr39c1iGdub28pPT2dKisrtaSMQTUpOTyXl5c0NjZGhYWF5OLiwgSg1NLSEvn5+ZG/v/+j5IWycAKlr5TUFpECjo6OqL6+nhwdHenjx49aI+hVv379ovb2dgoPD+fklgltbGxQZmYm5ebmcrj/c1JnZ2c0OTlJBQUF5O3tzd+hX83Pz1N2djZXIxIf6kFZFENFRQVlZGRQfHw82dvbqzMkVEJKYDE9PS2kZBU9PT1CIigkJcTJyYmQElzMzMwIKXe0+29ubsTIyIjw9PQUo6Oj4vz8nH9DDVQrJRmntbU1zg14/f79ey7pDx8+UEREhDa55Zm2tbVFnZ2dFB0dTbGxsRxytVBNanNzkzo6Oig/P58TXO7USkCYe3t7ucHW1dWxA6bABiUMA0pjQAbyY29vjy/MKjmRDWFhYYHa2tp4vkVFRT27Xx+awcFBLvPr62teQVIXckeGoYODAwoODjaqEpzp6+vjSi0qKuLwGmuUiqTgCab0t2/fqKSkhMbHx590ZVQRRgvC5u7ubtQIQreyskK+vr705csXkwkxKTQ8qXKopaWFCUmVRRcXF482YYQgdHl5edybjBmamJig2dlZHtJS5ZlMiElJpUvNzc3sGXrPjx8/aHl5WbsBqqGDIy9SUlKMnjZxD7kEp9Bc9c9JaoCGq8E/yJXy8nIqLi7mOdXU1MQrjKA5zs3NkZeXF3tuSCWQPzw85KGMfTjSyCcCU4Cc1iARGxsb2bPPnz9zzxkeHubxgA1TU1O0v7/PI8JQaYM8FO/u7uZQo+qgujmkgEfnKRwvUlNT2QhGB1aQCwoK4vml1Dq0PyQ1UoQYe1B5aJ7mAM9zA9H1KCsri6d+VVUVk0TVwSBUMkQI34NQWloaVVdX8xnL0Ln9OXBP297eFtKRhGcOVlySSiIhIUHk5OQIqQBETU2NOD4+Njqv8BxmoZQKQhovYmdnR+1YfQIooSWFgYlLkl6UlZUJaV4JKXRCekl4dpjKz8qXJdB8+vRJ+94lhxFDF40PK5I/NDT0WdnlZ81NbhkQSvHFARWJnoTTAKoOn/8vsFMcQwXg6Iu+g8QDKayWKGASMSVS4t/zuO7rtKVhsZiUTEwmofv/FyX1kniVf596I6UWb6TU4h/WcZ4iK4Bo5gAAAABJRU5ErkJggg==\" data-source-sha256=\"ad42f827eb342140f6efc0f370fa9c74e1fe609fcdd59e6eb86853610f4dc9ec\" alt=\"DOCX内嵌图片\" />"
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 77,
+   "type": "single_choice",
+   "kinds": [
+    "划线恢复(选项)"
+   ],
+   "stem_to": "在下列每组单词中，有一个单词的划线部分与其他单词的划线部分的读音不同。找出这个词。<br>1.",
+   "stem_from": "在下列每组单词中，有一个单词的划线部分与其他单词的划线部分的读音不同。找出这个词。<br>1.",
+   "options": [
+    {
+     "label": "A",
+     "content_html": "<u>u</u>se",
+     "order_index": 1
+    },
+    {
+     "label": "B",
+     "content_html": "b<u>u</u>s",
+     "order_index": 2
+    },
+    {
+     "label": "C",
+     "content_html": "c<u>u</u>te",
+     "order_index": 3
+    },
+    {
+     "label": "D",
+     "content_html": "m<u>u</u>te",
+     "order_index": 4
+    }
+   ]
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 78,
+   "type": "single_choice",
+   "kinds": [
+    "划线恢复(选项)"
+   ],
+   "stem_to": "2.",
+   "stem_from": "2.",
+   "options": [
+    {
+     "label": "A",
+     "content_html": "n<u>ow</u>",
+     "order_index": 1
+    },
+    {
+     "label": "B",
+     "content_html": "c<u>ow</u>",
+     "order_index": 2
+    },
+    {
+     "label": "C",
+     "content_html": "h<u>ow</u>",
+     "order_index": 3
+    },
+    {
+     "label": "D",
+     "content_html": "b<u>ow</u>l",
+     "order_index": 4
+    }
+   ]
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 79,
+   "type": "single_choice",
+   "kinds": [
+    "划线恢复(选项)"
+   ],
+   "stem_to": "3.",
+   "stem_from": "3.",
+   "options": [
+    {
+     "label": "A",
+     "content_html": "i<u>s</u>land",
+     "order_index": 1
+    },
+    {
+     "label": "B",
+     "content_html": "<u>s</u>ilent",
+     "order_index": 2
+    },
+    {
+     "label": "C",
+     "content_html": "li<u>s</u>ten",
+     "order_index": 3
+    },
+    {
+     "label": "D",
+     "content_html": "fa<u>s</u>ten",
+     "order_index": 4
+    }
+   ]
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 80,
+   "type": "single_choice",
+   "kinds": [
+    "划线恢复(选项)"
+   ],
+   "stem_to": "4.",
+   "stem_from": "4.",
+   "options": [
+    {
+     "label": "A",
+     "content_html": "w<u>eigh</u>t",
+     "order_index": 1
+    },
+    {
+     "label": "B",
+     "content_html": "fr<u>eigh</u>t",
+     "order_index": 2
+    },
+    {
+     "label": "C",
+     "content_html": "h<u>eigh</u>t",
+     "order_index": 3
+    },
+    {
+     "label": "D",
+     "content_html": "<u>eigh</u>t",
+     "order_index": 4
+    }
+   ]
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 82,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".This is the park ______ we visited last weekend.",
+   "stem_from": "6.This is the park ______ we visited last weekend."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 83,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".You can ______ stay at home ______ go out to play. It&#x27;s up to you.",
+   "stem_from": "7.You can ______ stay at home ______ go out to play. It&#x27;s up to you."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 84,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".The teacher found a student ______ in the classroom when he passed by.",
+   "stem_from": "8.The teacher found a student ______ in the classroom when he passed by."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 85,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".If it ______ tomorrow, we will cancel the picnic.",
+   "stem_from": "9.If it ______ tomorrow, we will cancel the picnic."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 86,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".My parents bought ______ a new bike as my birthday present.",
+   "stem_from": "10.My parents bought ______ a new bike as my birthday present."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 87,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".Tom ______ to the library twice a week.",
+   "stem_from": "11.Tom ______ to the library twice a week."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 88,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".They decided ______ a new school in their hometown.",
+   "stem_from": "12.They decided ______ a new school in their hometown."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 89,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".The weather is getting ______ than before.",
+   "stem_from": "13.The weather is getting ______ than before."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 90,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".He ran ______ to catch the early bus.",
+   "stem_from": "14.He ran ______ to catch the early bus."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 91,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".We will have a party ______ the evening of December 25th.",
+   "stem_from": "15.We will have a party ______ the evening of December 25th."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 92,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".There is ______ university in our city. It&#x27;s very famous.",
+   "stem_from": "16.There is ______ university in our city. It&#x27;s very famous."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 93,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".Many trees ______ in our school last year.",
+   "stem_from": "17.Many trees ______ in our school last year."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 94,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".You ______ smoke in public places. It&#x27;s against the law.",
+   "stem_from": "18.You ______ smoke in public places. It&#x27;s against the law."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 95,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".She ______ in this company since she graduated from college.",
+   "stem_from": "19.She ______ in this company since she graduated from college."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 96,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".—______ is the nearest supermarket?<br>—It&#x27;s about 10 minutes&#x27; walk from here.",
+   "stem_from": "20.—______ is the nearest supermarket?<br>—It&#x27;s about 10 minutes&#x27; walk from here."
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 113,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". What kind of dogs help catch criminals?",
+   "stem_from": "37. What kind of dogs help catch criminals?"
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 114,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". Why do people keep dogs as pets?",
+   "stem_from": "38. Why do people keep dogs as pets?"
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 115,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". What is the main idea of this passage?",
+   "stem_from": "39. What is the main idea of this passage?"
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 117,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". Who taught Tom to surf?",
+   "stem_from": "41. Who taught Tom to surf?"
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 118,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". When did they leave the beach?",
+   "stem_from": "42. When did they leave the beach?"
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 119,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". What did Tom think of the weekend?",
+   "stem_from": "43. What did Tom think of the weekend?"
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 121,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". What is an advantage of online shopping?",
+   "stem_from": "45. What is an advantage of online shopping?"
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 122,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". Why may people be disappointed with online shopping?",
+   "stem_from": "46. Why may people be disappointed with online shopping?"
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 123,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". What is the main idea of this passage?",
+   "stem_from": "47. What is the main idea of this passage?"
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 125,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". What do pandas mainly eat?",
+   "stem_from": "49. What do pandas mainly eat?"
+  },
+  {
+   "paper": "英语考前模拟卷1",
+   "qid": 126,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". Why are pandas endangered?",
+   "stem_from": "50. Why are pandas endangered?"
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 133,
+   "type": "single_choice",
+   "kinds": [
+    "划线恢复(选项)"
+   ],
+   "stem_to": "在下列每组单词中，有一个单词的划线部分与其他单词的划线部分的读音不同。找出这个词。<br>1.",
+   "stem_from": "在下列每组单词中，有一个单词的划线部分与其他单词的划线部分的读音不同。找出这个词。<br>1.",
+   "options": [
+    {
+     "label": "A",
+     "content_html": "n<u>a</u>me",
+     "order_index": 1
+    },
+    {
+     "label": "B",
+     "content_html": "c<u>a</u>t",
+     "order_index": 2
+    },
+    {
+     "label": "C",
+     "content_html": "c<u>a</u>ke",
+     "order_index": 3
+    },
+    {
+     "label": "D",
+     "content_html": "d<u>a</u>te",
+     "order_index": 4
+    }
+   ]
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 134,
+   "type": "single_choice",
+   "kinds": [
+    "划线恢复(选项)"
+   ],
+   "stem_to": "2.",
+   "stem_from": "2.",
+   "options": [
+    {
+     "label": "A",
+     "content_html": "s<u>ee</u>",
+     "order_index": 1
+    },
+    {
+     "label": "B",
+     "content_html": "m<u>ee</u>t",
+     "order_index": 2
+    },
+    {
+     "label": "C",
+     "content_html": "d<u>ee</u>r",
+     "order_index": 3
+    },
+    {
+     "label": "D",
+     "content_html": "gr<u>ee</u>n",
+     "order_index": 4
+    }
+   ]
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 135,
+   "type": "single_choice",
+   "kinds": [
+    "划线恢复(选项)"
+   ],
+   "stem_to": "3.",
+   "stem_from": "3.",
+   "options": [
+    {
+     "label": "A",
+     "content_html": "a<u>cc</u>ent",
+     "order_index": 1
+    },
+    {
+     "label": "B",
+     "content_html": "a<u>cc</u>ompany",
+     "order_index": 2
+    },
+    {
+     "label": "C",
+     "content_html": "a<u>cc</u>ept",
+     "order_index": 3
+    },
+    {
+     "label": "D",
+     "content_html": "a<u>cc</u>ess",
+     "order_index": 4
+    }
+   ]
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 136,
+   "type": "single_choice",
+   "kinds": [
+    "划线恢复(选项)"
+   ],
+   "stem_to": "4.",
+   "stem_from": "4.",
+   "options": [
+    {
+     "label": "A",
+     "content_html": "p<u>u</u>t",
+     "order_index": 1
+    },
+    {
+     "label": "B",
+     "content_html": "b<u>u</u>t",
+     "order_index": 2
+    },
+    {
+     "label": "C",
+     "content_html": "c<u>u</u>t",
+     "order_index": 3
+    },
+    {
+     "label": "D",
+     "content_html": "c<u>u</u>p",
+     "order_index": 4
+    }
+   ]
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 137,
+   "type": "single_choice",
+   "kinds": [
+    "划线恢复(选项)"
+   ],
+   "stem_to": "5.",
+   "stem_from": "5.",
+   "options": [
+    {
+     "label": "A",
+     "content_html": "<u>th</u>ree",
+     "order_index": 1
+    },
+    {
+     "label": "B",
+     "content_html": "<u>th</u>ose",
+     "order_index": 2
+    },
+    {
+     "label": "C",
+     "content_html": "<u>th</u>in",
+     "order_index": 3
+    },
+    {
+     "label": "D",
+     "content_html": "<u>th</u>ink",
+     "order_index": 4
+    }
+   ]
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 138,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".— What do you usually have for ______ breakfast?<br>— I often have some bread and a glass of milk.",
+   "stem_from": "6.— What do you usually have for ______ breakfast?<br>— I often have some bread and a glass of milk."
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 139,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".My sister is good ______ playing the piano.",
+   "stem_from": "7.My sister is good ______ playing the piano."
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 140,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".You ______ finish your homework before going out to play.",
+   "stem_from": "8.You ______ finish your homework before going out to play."
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 141,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".This story is ______ interesting that everyone wants to read it.",
+   "stem_from": "9.This story is ______ interesting that everyone wants to read it."
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 142,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".If you have any question, please ask ______ teacher for help.",
+   "stem_from": "10.If you have any question, please ask ______ teacher for help."
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 143,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".Tom runs ______ than any other student in his class.",
+   "stem_from": "11.Tom runs ______ than any other student in his class."
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 144,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".The new library ______ last month and it is now open to the public.",
+   "stem_from": "12.The new library ______ last month and it is now open to the public."
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 145,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".I ______ to the Great Wall twice since I came to Beijing.",
+   "stem_from": "13.I ______ to the Great Wall twice since I came to Beijing."
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 147,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".______ careful when you cross the road.",
+   "stem_from": "15.______ careful when you cross the road."
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 148,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".They decided ______ a party to celebrate their success.",
+   "stem_from": "16.They decided ______ a party to celebrate their success."
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 149,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".She ______ watch TV in the evening because she has to study.",
+   "stem_from": "17.She ______ watch TV in the evening because she has to study."
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 150,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".It was raining ______ we arrived at the station.",
+   "stem_from": "18.It was raining ______ we arrived at the station."
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 151,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".Could you tell me ______ the nearest post office is?",
+   "stem_from": "19.Could you tell me ______ the nearest post office is?"
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 152,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ".There ______ some books and a pen on the desk.",
+   "stem_from": "20.There ______ some books and a pen on the desk."
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 173,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". How can reading improve your language skills?",
+   "stem_from": "41. How can reading improve your language skills?"
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 174,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". What can reading help you do after a long day?",
+   "stem_from": "42. What can reading help you do after a long day?"
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 175,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". How can reading enhance your imagination?",
+   "stem_from": "43. How can reading enhance your imagination?"
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 177,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". How long did the study last?",
+   "stem_from": "45. How long did the study last?"
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 178,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". What did the people who exercised regularly have?",
+   "stem_from": "46. What did the people who exercised regularly have?"
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 179,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". How often should people exercise according to the researchers?",
+   "stem_from": "47. How often should people exercise according to the researchers?"
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 181,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". What can dogs be trained to do?",
+   "stem_from": "49. What can dogs be trained to do?"
+  },
+  {
+   "paper": "英语考前模拟卷2",
+   "qid": 182,
+   "type": "single_choice",
+   "kinds": [
+    "去题号前缀"
+   ],
+   "stem_to": ". What are cats like?",
+   "stem_from": "50. What are cats like?"
+  }
+ ]
+}

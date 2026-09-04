@@ -7,7 +7,8 @@ function sanitizeStoredHtml(value:string):string{
     return `<img class="inlineMedia" src="${src}" alt="题目图片" />`;
   });
   html=html.replace(/<br\b[^>]*>/gi,'<br>');
-  html=html.replace(/<(?!br\b|img\b)[^>]+>/gi,'');
+  // 放行安全的内联格式标签（含 <u> 划线还原、上下标与加粗/斜体）
+  html=html.replace(/<(?!\/?(?:br|img|u|b|strong|i|em|sub|sup)\b)[^>]*>/gi,'');
   return html;
 }
 

@@ -5,7 +5,7 @@ import { useMemo, useState } from 'react';
 import RichHtml from './RichHtml';
 
 type Option = { id:number; label:string; content_html:string; order_index:number };
-type Question = { id:number; type:string; stem_html:string; score:number; options:Option[] };
+type Question = { id:number; type:string; stem_html:string; material_html:string|null; score:number; options:Option[] };
 type WrongItem = { question_id:number; question:Question };
 
 export default function WrongReviewRunner({ items, subjectName }: { items: WrongItem[]; subjectName:string }) {
@@ -57,6 +57,7 @@ export default function WrongReviewRunner({ items, subjectName }: { items: Wrong
 
   return <div className="reviewRunner">
     <div className="eyebrow">{subjectName} · 第 {index+1}/{items.length} 题</div>
+    {question.material_html && <div className="materialBox"><RichHtml html={question.material_html}/></div>}
     <h3><RichHtml html={question.stem_html}/></h3>
     {question.type === 'multiple_choice' ? <div className="optionList">{question.options.map(option => <label key={option.id} className="choiceLine"><input type="checkbox" checked={values.includes(option.label)} onChange={e => setValues(e.target.checked ? [...values, option.label] : values.filter(v => v !== option.label))}/><span>{option.label}. <RichHtml html={option.content_html}/></span></label>)}</div>
       : question.options.length ? <div className="optionList">{question.options.map(option => <label key={option.id} className="choiceLine"><input type="radio" name={`q-${question.id}`} value={option.label} checked={value===option.label} onChange={e=>setValue(e.target.value)}/><span>{option.label}. <RichHtml html={option.content_html}/></span></label>)}</div>

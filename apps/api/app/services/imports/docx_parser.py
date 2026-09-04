@@ -42,10 +42,30 @@ def _paragraph_payload(paragraph: Paragraph, index: int) -> tuple[dict[str, Any]
         text = f'{text}{math_text}'
 
     image_tags, image_count = _image_tags(paragraph)
-    fragments: list[str] = []
-    if text:
-        fragments.append(html.escape(text).replace('\n', '<br>'))
-    fragments.extend(image_tags)
+
+    # 保留 Word 下划线（w:u，如“划线的成语/划线字/读音划线”）为 <u> 标签，
+    # 使导入后的题干与选项能够还原原卷的划线标记。
+    underlined_runs: list[tuple[str, bool]] = []
+    for run in paragraph.runs:
+        run_text = run.text or ''
+        if not run_text:
+            continue
+        underline = run.underline
+        flagged = underline is True or (isinstance(underline, str) and underline.lower() != 'none')
+        underlined_runs.append((run_text, flagged))
+
+    html_fragments: list[str] = []
+    for run_text, flagged in underlined_runs:
+        if not run_text:
+            continue
+        escaped = html.escape(run_text).replace('\n', '<br>')
+        html_fragments.append(f'<u>{escaped}</u>' if flagged else escaped)
+    if math_text and math_text not in text:
+        html_fragments.append(html.escape(math_text).replace('\n', '<br>'))
+    if not html_fragments and text:
+        # 理论上不可达的兜底：runs 为空但 paragraph.text 有值。
+        html_fragments.append(html.escape(text).replace('\n', '<br>'))
+    html_fragments.extend(image_tags)
     unsupported = len(paragraph._p.xpath('.//w:object'))
 
     return {
@@ -53,7 +73,7 @@ def _paragraph_payload(paragraph: Paragraph, index: int) -> tuple[dict[str, Any]
         'index': index,
         'style': paragraph.style.name if paragraph.style is not None else None,
         'text': text,
-        'html': ''.join(fragments),
+        'html': ''.join(html_fragments),
         'rows': None,
         'equation_text': math_text or None,
         'unsupported_object_count': unsupported,

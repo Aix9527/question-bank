@@ -4,7 +4,7 @@ import WrongReviewRunner from '../../components/WrongReviewRunner';
 import RichHtml from '../../components/RichHtml';
 
 type Option={id:number;label:string;content_html:string;order_index:number};
-type Question={id:number;subject_id:number;type:string;stem_html:string;score:number;knowledge_points:string[]|null;options:Option[]};
+type Question={id:number;subject_id:number;type:string;stem_html:string;material_html:string|null;score:number;knowledge_points:string[]|null;options:Option[]};
 type Wrong={id:number;question_id:number;state:string;wrong_count:number;review_count:number;correct_review_count:number;consecutive_correct_count:number;question:Question};
 type Subject={id:number;code:string;name:string};
 
