@@ -1,5 +1,4 @@
 import { cookies } from 'next/headers';
-import { redirect } from 'next/navigation';
 
 const API_BASE = process.env.API_INTERNAL_BASE ?? process.env.NEXT_PUBLIC_API_BASE_URL ?? process.env.NEXT_PUBLIC_API_BASE ?? 'http://127.0.0.1:8000';
 
@@ -16,8 +15,8 @@ async function authHeaders(admin=false): Promise<Record<string,string>> {
 
 async function request<T>(path:string, admin=false): Promise<T> {
   const response = await fetch(`${API_BASE}${path}`, { cache:'no-store', headers: await authHeaders(admin) });
-  if (response.status === 401) redirect('/login');
-  if (response.status === 403 && admin) redirect('/');
+  if (response.status === 401) throw new Error(`API 401: ${path}`);
+  if (response.status === 403 && admin) throw new Error(`ADMIN API 403: ${path}`);
   if (!response.ok) throw new Error(`${admin?'ADMIN ':''}API ${response.status}: ${path}`);
   return response.json() as Promise<T>;
 }

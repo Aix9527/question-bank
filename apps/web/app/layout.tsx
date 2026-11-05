@@ -1,6 +1,6 @@
 import './globals.css';
 
-export const metadata = { title: '专科复习在线题库', description: '语文、数学、英语在线刷题与批改' };
+export const metadata = { title: '人工智能认证在线题库', description: '按证书与等级分类的人工智能认证刷题与批改' };
 
 // suppressHydrationWarning: 部分浏览器扩展会在 React 水合前给 <html> 注入
 // style（如 -webkit-touch-callout）导致属性级水合告警；此类外部注入无害，

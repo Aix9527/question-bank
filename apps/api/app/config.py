@@ -42,7 +42,8 @@ def get_settings() -> Settings:
         supabase_storage_bucket=os.getenv('SUPABASE_STORAGE_BUCKET', 'question-bank').strip(),
         admin_token=os.getenv('QUESTION_BANK_ADMIN_TOKEN') or None,
         cors_origins=_cors_origins(),
-        auth_required=os.getenv('QUESTION_BANK_AUTH_REQUIRED', 'false').strip().lower() in {'1','true','yes','on'},
+        # 登录界面已移除：始终以本地访客用户运行，不再要求登录。
+        auth_required=False,
         auth_session_hours=int(os.getenv('QUESTION_BANK_AUTH_SESSION_HOURS', '168')),
         bootstrap_admin_username=os.getenv('QUESTION_BANK_BOOTSTRAP_ADMIN_USERNAME') or None,
         bootstrap_admin_password=os.getenv('QUESTION_BANK_BOOTSTRAP_ADMIN_PASSWORD') or None,

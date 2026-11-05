@@ -14,7 +14,26 @@ Rules:
 - --draft-below N: papers with fewer than N questions stored as draft regardless of --status.
 """
 import argparse, json, os, sys, re
+from urllib.parse import urlparse, unquote
 import psycopg2
+
+
+def build_connect_kwargs(url):
+    """Parse a postgres:// URL and return psycopg2 keyword args. Passwords are
+    percent-decoded so special characters (e.g. +, [, ]) are sent verbatim
+    instead of being mangled by libpq URI parsing."""
+    u = urlparse(url)
+    kwargs = {
+        "host": u.hostname,
+        "user": unquote(u.username or ""),
+        "dbname": (u.path or "/postgres").lstrip("/") or "postgres",
+        "sslmode": "require",
+    }
+    if u.password is not None:
+        kwargs["password"] = unquote(u.password)
+    if u.port:
+        kwargs["port"] = u.port
+    return kwargs
 
 SUBJECT = {"chinese": 1, "math": 2, "english": 3}
 AUTO = {"single_choice", "multiple_choice", "fill_blank"}
@@ -58,7 +77,7 @@ def main():
     url = os.environ.get("QUESTION_BANK_DATABASE_URL")
     if not url:
         print("NO_URL"); sys.exit(2)
-    conn = psycopg2.connect(url, connect_timeout=20)
+    conn = psycopg2.connect(connect_timeout=20, **build_connect_kwargs(url))
     conn.autocommit = False
     cur = conn.cursor()
     summary = []
